@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  linkedin-scraper:
+    build: .
+    container_name: job_scraper
+    restart: always
+    env_file: .env
+    ports:
+      - "2300:2300"

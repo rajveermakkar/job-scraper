@@ -1,0 +1,124 @@
+2025-02-10 15:25:27,013 - INFO - 🚀 Scraper started!
+2025-02-10 15:25:27,013 - INFO - 📂 Loaded 0 previously sent jobs.
+2025-02-10 15:25:27,013 - INFO - 🔍 Scraping jobs...
+2025-02-10 15:25:27,013 - INFO - 🔎 Searching for: software engineer (intern) in Canada...
+2025-02-10 15:25:27,059 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2300
+ * Running on http://192.168.0.32:2300
+2025-02-10 15:25:27,059 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-10 15:25:31,159 - INFO - 🔎 Searching for: software engineer (part-time) in Canada...
+2025-02-10 15:25:36,947 - INFO - 🔎 Searching for: software engineer (full-time) in Canada...
+2025-02-10 15:25:37,699 - INFO - 🔎 Searching for: web developer (intern) in Canada...
+2025-02-10 15:25:38,146 - INFO - 🔎 Searching for: web developer (part-time) in Canada...
+2025-02-10 15:25:38,325 - INFO - 127.0.0.1 - - [10/Feb/2025 15:25:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-10 15:25:38,555 - INFO - 🔎 Searching for: web developer (full-time) in Canada...
+2025-02-10 15:25:43,268 - INFO - 🔎 Searching for: full stack developer (intern) in Canada...
+2025-02-10 15:25:43,595 - INFO - 🔎 Searching for: full stack developer (part-time) in Canada...
+2025-02-10 15:29:36,204 - INFO - 🚀 Scraper started!
+2025-02-10 15:29:36,205 - INFO - 📂 Loaded 0 previously sent jobs.
+2025-02-10 15:29:36,205 - INFO - 🔍 Scraping jobs...
+2025-02-10 15:29:36,205 - INFO - 🔎 Searching for: software engineer (intern) in Canada...
+2025-02-10 15:29:36,243 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2300
+ * Running on http://192.168.0.32:2300
+2025-02-10 15:29:36,244 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-10 15:29:41,400 - INFO - 🔎 Searching for: software engineer (part-time) in Canada...
+2025-02-10 15:29:47,412 - INFO - 🔎 Searching for: software engineer (full-time) in Canada...
+2025-02-10 15:29:47,834 - INFO - 🔎 Searching for: web developer (intern) in Canada...
+2025-02-10 15:29:48,161 - INFO - 🔎 Searching for: web developer (part-time) in Canada...
+2025-02-10 15:29:48,624 - INFO - 🔎 Searching for: web developer (full-time) in Canada...
+2025-02-10 15:29:50,976 - INFO - 127.0.0.1 - - [10/Feb/2025 15:29:50] "GET / HTTP/1.1" 200 -
+2025-02-10 15:29:54,460 - INFO - 127.0.0.1 - - [10/Feb/2025 15:29:54] "GET /logs HTTP/1.1" 200 -
+2025-02-10 15:29:54,479 - INFO - 127.0.0.1 - - [10/Feb/2025 15:29:54] "GET /logs/stream HTTP/1.1" 200 -
+2025-02-10 15:29:55,601 - INFO - 🔎 Searching for: full stack developer (intern) in Canada...
+2025-02-10 15:29:55,993 - INFO - 🔎 Searching for: full stack developer (part-time) in Canada...
+2025-07-29 14:57:20,668 - INFO - 🚀 Scraper started!
+2025-07-29 14:57:20,669 - INFO - 📂 Loaded 0 previously sent jobs.
+2025-07-29 14:57:20,669 - INFO - 🔍 Scraping jobs...
+2025-07-29 14:57:20,669 - INFO - 🔎 Searching for: software engineer (intern) in Canada...
+2025-07-29 14:57:20,687 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:2300
+ * Running on http://172.17.0.2:2300
+2025-07-29 14:57:20,687 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-29 14:57:27,499 - INFO - 🔎 Searching for: software engineer (part-time) in Canada...
+2025-07-29 14:57:34,912 - INFO - 🔎 Searching for: software engineer (full-time) in Canada...
+2025-07-29 14:57:45,588 - INFO - 🔎 Searching for: web developer (intern) in Canada...
+2025-07-29 14:57:45,936 - INFO - 🔎 Searching for: web developer (part-time) in Canada...
+2025-07-29 14:57:46,453 - INFO - 🔎 Searching for: web developer (full-time) in Canada...
+2025-07-29 14:57:53,893 - INFO - 🔎 Searching for: full stack developer (intern) in Canada...
+2025-07-29 14:57:54,297 - INFO - 🔎 Searching for: full stack developer (part-time) in Canada...
+2025-07-29 14:57:54,651 - INFO - 🔎 Searching for: full stack developer (full-time) in Canada...
+2025-07-29 14:57:58,616 - INFO - 📤 Found 17 new jobs.
+2025-07-29 14:57:58,678 - INFO - 📁 Jobs saved to CSV (17 new entries).
+2025-07-29 14:57:59,646 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:02,021 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:04,394 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:06,401 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:58:08,304 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:10,685 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:13,056 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:15,063 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:58:16,956 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:19,318 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:21,700 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:23,702 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:58:25,576 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:27,942 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:30,316 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:32,318 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:58:34,192 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:36,597 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:38,965 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:40,971 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:58:47,873 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:50,247 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:52,626 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:54,633 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:58:56,511 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:58:58,898 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:01,279 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:03,283 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:59:05,173 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:07,581 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:09,943 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:11,945 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:59:13,818 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:16,197 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:18,574 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:20,579 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:59:22,447 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:24,807 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:27,174 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:29,178 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:59:36,042 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:38,425 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:40,813 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:42,816 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:59:44,667 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:47,053 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:49,464 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:51,467 - INFO - ❌ Failed to send message after retries.
+2025-07-29 14:59:53,342 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:55,705 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 14:59:58,076 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:00,078 - INFO - ❌ Failed to send message after retries.
+2025-07-29 15:00:01,948 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:04,327 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:06,717 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:08,725 - INFO - ❌ Failed to send message after retries.
+2025-07-29 15:00:10,631 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:13,045 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:15,420 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:17,427 - INFO - ❌ Failed to send message after retries.
+2025-07-29 15:00:24,311 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:26,710 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:29,122 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:31,129 - INFO - ❌ Failed to send message after retries.
+2025-07-29 15:00:33,010 - INFO - ⚠️ Telegram Error (Attempt 1): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:35,394 - INFO - ⚠️ Telegram Error (Attempt 2): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:37,762 - INFO - ⚠️ Telegram Error (Attempt 3): {"ok":false,"error_code":400,"description":"Bad Request: group chat was upgraded to a supergroup chat","parameters":{"migrate_to_chat_id":-1002336456129}}
+2025-07-29 15:00:39,765 - INFO - ❌ Failed to send message after retries.
+2025-07-29 15:00:46,287 - INFO - ⏳ Sleeping before next scrape...
