@@ -1,18 +1,1601 @@
 "id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","category"
-"li-4272146950","linkedin","https://www.linkedin.com/jobs/view/4272146950","","Intern Java Software Engineer","Synechron","Mississauga, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/synechron","","","","","","","intern"
-"li-4273730798","linkedin","https://www.linkedin.com/jobs/view/4273730798","","Application Support Developer","TripArc","Toronto, Ontario, Canada","","","","","","","","","","","","","","","https://ca.linkedin.com/company/triparc","","","","","","","part-time"
-"li-4277668860","linkedin","https://www.linkedin.com/jobs/view/4277668860","","Senior Data Scientist, Wealth Data Science","BMO","Toronto, Ontario, Canada","","","","","","","","","","","","","","","https://ca.linkedin.com/company/bank-of-montreal","","","","","","","part-time"
-"li-4207977081","linkedin","https://www.linkedin.com/jobs/view/4207977081","","Lead, Site Reliability Engineering, Deployments","MongoDB","Toronto, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/mongodbinc","","","","","","","part-time"
-"li-4168623079","linkedin","https://www.linkedin.com/jobs/view/4168623079","","Senior Staff Engineer, Server Networking & Observability","MongoDB","Toronto, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/mongodbinc","","","","","","","part-time"
-"li-4248782277","linkedin","https://www.linkedin.com/jobs/view/4248782277","","Java Full Stack Developer (AVP) - Hybrid","Citi","Mississauga, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/citi","","","","","","","full-time"
-"li-4273732498","linkedin","https://www.linkedin.com/jobs/view/4273732498","","Senior Java Software Engineer","Lorven Technologies Inc.","Mississauga, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/lorventech","","","","","","","full-time"
-"li-4262324843","linkedin","https://www.linkedin.com/jobs/view/4262324843","","Java-Python Lead Developer","Citi","Mississauga, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/citi","","","","","","","full-time"
-"li-4204048136","linkedin","https://www.linkedin.com/jobs/view/4204048136","","Software Architect","Electronic Arts (EA)","Vancouver, British Columbia, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/electronic-arts","","","","","","","full-time"
-"li-4273733185","linkedin","https://www.linkedin.com/jobs/view/4273733185","","Amazon Connect Developer","Enterprise Solutions Inc.","Brampton, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/enterprise-solution-inc-","","","","","","","full-time"
-"li-4277657948","linkedin","https://www.linkedin.com/jobs/view/4277657948","","Senior Android Developer","Bevertec","Toronto, Ontario, Canada","","","","","","","","","","","","","","","https://ca.linkedin.com/company/bevertec","","","","","","","full-time"
-"li-4262186761","linkedin","https://www.linkedin.com/jobs/view/4262186761","","Senior Big Data Developer","Citi","Mississauga, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/citi","","","","","","","full-time"
-"li-4262185833","linkedin","https://www.linkedin.com/jobs/view/4262185833","","Senior Big Data Developer","Citi","Mississauga, Ontario, Canada","","","","","","","","","","","","","","","https://www.linkedin.com/company/citi","","","","","","","full-time"
-"li-4236437623","linkedin","https://www.linkedin.com/jobs/view/4236437623","","Intermediate Systems Engineer","Thales","Dartmouth, Nova Scotia, Canada","","","","","","","","","","","","","","","https://fr.linkedin.com/company/thales","","","","","","","full-time"
-"li-4273726534","linkedin","https://www.linkedin.com/jobs/view/4273726534","","Enterprise Architect","Vasa Digital Architects","","","","","","","","","","","","","","","","https://ca.linkedin.com/company/vasa-digital-architects","","","","","","","full-time"
-"li-4250816173","linkedin","https://www.linkedin.com/jobs/view/4250816173","","Senior Engine Programmer","EA SPORTS","Vancouver, British Columbia, Canada","","","","","","","","","","","","","","","https://ca.linkedin.com/company/easports","","","","","","","full-time"
-"li-4272144600","linkedin","https://www.linkedin.com/jobs/view/4272144600","","Senior AI/NLP Engineer","Mission.dev","Montreal, Quebec, Canada","","","","","","","","","","","","","","","https://ca.linkedin.com/company/mission-dev","","","","","","","full-time"
+"in-3a70e3efabaa0f9d","indeed","https://ca.indeed.com/viewjob?jk=3a70e3efabaa0f9d","https://indeed.njoyn.com/corp/xweb/XWeb.asp?page=jobdetails&clid=21001&JobID=J0126-1533&BRID=1273473&sbdid=936","Senior Full Stack Developer - Node.js and React","CGI","Halifax, NS, CA","2026-02-11","fulltime","","","","","",False,"","","","","We are growing our capabilities across Atlantic Canada and are seeking a Senior Full Stack Developer with 6\+ years of backend development experience to join our team. This is a permanent, full\-time role with a hybrid work model requiring 2–3 days per week onsite from one of our Atlantic office locations: Halifax, NS; Moncton, NB; Fredericton, NB; Stratford, PE; or St. John’s, NL.  
+
+  
+
+In this role, you will contribute to the design, development, and optimization of modern web applications, supporting both backend and frontend initiatives. You will collaborate with cross\-functional teams, leveraging your experience in Node.js, React, relational databases, API development, cloud services, and DevOps practices to deliver scalable, secure, and high\-quality solutions.
+
+**Your future duties and responsibilities**
+
+* Develop, optimize, and maintain backend services using Node.js
+* Design and implement RESTful and GraphQL APIs using Apollo Server
+* Work with relational databases, primarily PostgreSQL (transitioning from MySQL)
+* Implement caching strategies with Redis to improve performance
+* Build and deploy applications in AWS using Lambda, ECS, SQS, and RDS
+* Support CI/CD processes using GitHub Actions and troubleshoot pipeline issues
+* Integrate backend services with React applications
+* Participate in Agile ceremonies, sprint planning, estimations, and retrospectives
+* Follow DevOps practices for building and managing Docker images, containers, and orchestrations
+
+**Required qualifications to be successful in this role**
+
+* 6\+ years of Node.js backend development experience
+* 6\+ years of experience working with relational databases (PostgreSQL preferred)
+* Deep understanding of REST, GraphQL, and event\-driven architectures
+* 5\+ years of experience building and scaling applications in AWS
+* 4\+ years working with caching systems, ideally Redis
+* Experience working in Agile and Continuous Deployment environments
+* Strong understanding of Git and GitHub workflows
+* Strong experience with Kafka
+
+  
+
+Nice to have:  
+
+* Experience building and managing Docker containers
+* Familiarity with container orchestration (AWS ECS, Kubernetes)
+* Experience designing and maintaining CI/CD pipelines with GitHub Actions
+
+  
+
+CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $65,000–$125,000\. This role is an existing vacancy.  
+
+  
+
+\#LI\-HG**Together, as owners, let’s turn meaningful insights into action.**  
+
+  
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…  
+
+  
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.  
+
+  
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.  
+
+  
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well\-being and provide you with opportunities to deepen your skills and broaden your horizons.  
+
+  
+
+At CGI, we value the strength that diversity brings and are committed to fostering a workplace where everyone belongs. We collaborate with our clients to build more inclusive communities and empower all CGI partners to thrive. As an equal\-opportunity employer, being able to perform your best during the recruitment process is important to us. If you require an accommodation, please inform your recruiter.  
+
+  
+
+To learn more about accessibility at CGI, contact us via email. Please note that this email is strictly for accessibility requests and cannot be used for application status inquiries.  
+
+  
+
+Come join our team—one of the largest IT and business consulting services firms in the world.","","https://ca.indeed.com/cmp/CGI","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f5bb18d5bb1c3662d919d07357d0eed3","https://www.cgi.com","Montreal, QC","10,000+","more than $10B (USD)","CGI is among the largest IT and business consulting services firms in the world. CGI is built on great technology experts who make technology work.","full-time"
+"in-de12e08b6d712a30","indeed","https://ca.indeed.com/viewjob?jk=de12e08b6d712a30","https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000158239&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000158239%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3Dea3d007b-076a-11f1-a7e8-a7d8c80580e0%26rx_job%3DR-0000158239%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260212T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic","Senior IAM Systems Support Analyst (Global Security)","RBC","Toronto, ON, CA","2026-02-11","fulltime","","","","","",False,"","","","","**Job Description**
+
+**What is the opportunity?**
+
+
+ As the **Senior IAM Systems Support Analyst**, you will be responsible for deploying, supporting and continuously improving enterprise IAM services with a focus on passwordless authentication (e.g., Secret Double Octopus) and strong MFA. The analyst owns day‑to‑day platform reliability, incident response, deployment of a large\-scale enterprise solutions including infrastructure, application, and integrations while partnering with architecture, security, and application teams.
+
+**What will you do?**
+
+* Operate and support enterprise IAM and passwordless platforms (e.g., Secret Double Octopus, FIDO2, MFA, SSO), ensuring high availability and performance.
+* Act as subject matter expert for passwordless journeys, including enrollment, recovery, and step‑up authentication across web, mobile, and desktop channels.
+* Monitor, triage, and resolve IAM and authentication incidents, including on‑call participation for production issues impacting login and access.
+* Integrate passwordless and MFA flows with identity providers and directories (e.g., Entra ID/Azure AD, AD, SAML/OIDC/OAuth2 applications).
+* Work with application and product teams to onboard new applications to the passwordless solution, including requirements gathering, configuration, and testing.
+* Implement and maintain authentication and authorization controls in line with corporate security standards, Zero Trust principles, and regulatory requirements
+* Perform root‑cause analysis for complex authentication and access issues, documenting findings and implementing preventive measures.
+* Maintain detailed runbooks, configuration baselines, and operational documentation for IAM and passwordless platforms.
+* Support IAM audits, compliance reviews, and evidence requests related to access controls, authentication policies, and passwordless adoption.
+* Collaborate with security architecture, SOC, network, and endpoint teams to align detection, logging, and response for identity‑related threats.
+* Analyze usage metrics and feedback to optimize user experience and adoption of passwordless authentication.
+* Mentor junior analysts and provide technical guidance on IAM tools, support processes, and secure authentication patterns.
+* Develop and maintain strong relationships with team members, stakeholders, and interface with groups using a variety of techniques
+
+**What do you need to succeed?**
+
+**Must\-have:**
+
+* 3\+ years in IAM, security operations, or systems support roles with hands‑on responsibility for authentication platforms.
+* Direct experience supporting or implementing passwordless *or* strong MFA solutions (e.g., FIDO2/WebAuthn, passkeys, authenticator apps, push, or vendors like Secret Double Octopus, Transmit, Okta, Ping, Entra ID).
+* Strong knowledge of IAM concepts: identity lifecycle, RBAC, least privilege, SSO, session management, and privileged access considerations.
+* Solid understanding of authentication and federation protocols: OIDC, OAuth2, SAML2, and related token flows.
+* Proven experience supporting Microsoft Entra ID/Azure AD and Active Directory in an enterprise environment.
+* Strong troubleshooting skills across web, mobile, and endpoint environments, including logs, HTTP flows, certificates, and directory lookups.
+* Familiarity with security and compliance frameworks (e.g., NIST, ISO 27001, CIS, Zero Trust) and their implications for IAM controls.
+* Scripting or automation capability (PowerShell, Python, or similar) to streamline IAM operations and reporting.
+* Excellent communication skills, able to work with developers, security teams, and business stakeholders to translate requirements into technical changes.
+* Experience working in ITIL processes \- incident, problem, and change management processes.
+
+**Nice\-to\-have:**
+
+* Hands‑on experience with specific passwordless vendors (e.g., Secret Double Octopus, Transmit Security, HYPR, Beyond Identity) in production environments.
+* Direct experience supporting or implementing passwordless or strong MFA solutions (e.g., FIDO2/WebAuthn, passkeys, authenticator apps, push, or vendors like Secret Double Octopus, Transmit, Okta, Ping, Entra ID).
+* Experience with CIAM use cases (large‑scale customer or partner identities) and adaptive/risk‑based authentication.
+* Exposure to PAM platforms (CyberArk, BeyondTrust) and integration between privileged access and passwordless/MFA.
+* Experience with identity governance tools (e.g., SailPoint) and application onboarding into IGA workflows.
+* Familiarity with identity threat detection, behavioral analytics, and fraud prevention capabilities tied into authentication journeys.
+* Background in data analysis or dashboarding (e.g., Power BI, Tableau, SQL) for IAM metrics and service health reporting.
+* Relevant certifications: CISSP, CISM, CIAM, vendor‑specific IAM/passwordless certifications, or cloud security certifications.
+
+ **What’s in it for you?**
+
+
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+
+* A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+* Leaders who support your development through coaching and managing opportunities
+* Ability to make a difference and lasting impact
+* Work in a dynamic, collaborative, progressive, and high\-performing team
+* A world\-class training program in financial services
+* Opportunities to do challenging work
+* Opportunities to take on progressively greater accountabilities
+
+\#LI\-POST  
+
+\#TECHPJ
+
+**Job Skills**
+
+
+Agile Methodology, Application Maintenance, Authentication, Cyber Security Management, Decision Making, Group Problem Solving, IAM Tools, Information Security, Information Security Auditing, Information Security Management, Information Technology Security, IT Security Architecture, OAuth, Platform Architecture, SAML, Secure Authentication, Single Sign\-On (SSO), Technical Troubleshooting, User Experience (UX)**Additional Job Details**
+
+**Address:**
+
+
+16 YORK ST:TORONTO**City:**
+
+
+Toronto**Country:**
+
+
+Canada**Work hours/week:**
+
+
+37\.5**Employment Type:**
+
+
+Full time**Platform:**
+
+
+TECHNOLOGY AND OPERATIONS**Job Type:**
+
+
+Regular**Pay Type:**
+
+
+Salaried**Posted Date:**
+
+
+2026\-02\-10**Application Deadline:**
+
+
+2026\-02\-27**Note****:** *Applications will be accepted until 11:59 PM on the day prior to the application deadline date above*
+
+**I****nclusion** **and Equal Opportunity Employment**
+
+
+At RBC, we believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all.
+
+**Join our Talent Community**  
+
+  
+
+Stay in\-the\-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.  
+
+  
+
+Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well\-being of our clients and communities at jobs.rbc.com.
+
+
+RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.","","https://ca.indeed.com/cmp/Rbc","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/24b5226a07f0233c415dc4023ca92a38","http://www.rbc.com","Toronto, ON","10,000+","more than $10B (USD)","We're committed to helping clients thrive and communities prosper, supporting strategic initiatives that make a measurable impact on society.","full-time"
+"in-6b53dd05119397bc","indeed","https://ca.indeed.com/viewjob?jk=6b53dd05119397bc","https://careers.equinix.com/jobs/principal-ui-engineer-design-system-toronto-ontario-canada","Principal UI Engineer, Design System","Equinix","Toronto, ON, CA","2026-02-11","fulltime","","","","","",False,"","","","","### **Principal UI Engineer, Design System**
+
+
+* JR\-157424
+* Hybrid
+* Toronto
+* Technology
+* Full time
+
+**Who are we?**
+
+
+Equinix is the world’s digital infrastructure company®, shortening the path to connectivity to enable the innovations that enrich our work, life and planet.
+
+
+A place where tech thinkers and future builders turn bold ideas into breakthrough experiences, we welcome your unique perspective.
+Help us challenge assumptions, uncover bias, and remove barriers—because progress starts with fresh ideas. You’ll find belonging, purpose, and a team that welcomes you—because when you feel valued, you’re empowered to do your best work.**Job Summary**
+
+
+We're looking for an experienced engineer to help build the next iteration of our design system. Our system powers applications spanning consumer products, B2B offerings, and internal tools, enabling cohesive, accessible, and scalable components across all touch points.
+
+
+You'll bridge design and engineering, creating space to do great work supporting product teams, whether they need front\-end expertise, accessibility knowledge, or help shipping features faster. You'll play a key role in evolving our design system to unlock the potential of AI, driving innovation and design coherence at scale.
+
+
+Our Team
+
+
+We champion the design system throughout Equinix. Our mission is to empower product teams to effortlessly create, share, and discover UI components, letting them focus on innovation by simplifying the complexities of development and management. Crafting exceptional digital experiences is at the core of everything we do.
+
+
+Our vision is a future where product teams work at pace and with ease. To make this real, our team prioritizes craft and quality, continuously improving the system in ways that compound over time. Collaboration is key as we evolve and expand the design system, ensuring seamless integration of design and engineering.
+
+
+The team is deeply rooted in human\-centered values, which guide daily work and interactions. While code is important, the true impact extends beyond it by shaping how teams collaborate, create, and deliver exceptional user experiences.
+
+**Responsibilities**
+
+Innovation \& Expertise
+
+* Define how we measure success and drive continuous evaluation of those metrics to prove impact and guide priorities
+* Guide architectural decisions on component design, modularity, scalability, and API patterns that work across the organization, contributing code to critical components and features while mentoring the team on best practices for code quality, documentation, and testing
+* Develop and ship high\-quality components and tools that set the standard for performance, accessibility, and craft
+* Drive innovation by staying current with industry trends and investing in AI\-driven capabilities like generative design, automation, and intelligent tooling that advance how teams use and contribute to the system
+* Establish governance, documentation, and contribution models that maintain quality, accessibility, and scalability as the system grows
+
+
+Cross\-Functional Collaboration \& Stakeholder Engagement
+
+* Work directly with designers and cross\-functional partners to understand requirements, navigate trade\-offs, and build consensus on solutions that shape our digital experiences
+* Partner with leadership to define how we work, clarify ownership, and set clear expectations for the team
+* Help shape the vision, strategy, and roadmap for our design system
+* Own the technical vision and execution for the design system
+
+
+Evangelize \& Educate
+
+* Promote the design system through workshops, presentations, and documentation that helps product engineers ship features independently, telling the story of how it connects to business outcomes throughout the organization
+* Establish strong relationships with engineering, design, and product to understand their challenges, deliver solutions that help, and position the team as essential partners in shipping great products
+
+
+Team Impact
+
+* Guide teammates through pairing, code reviews, and technical guidance that raises the bar for the entire team
+* Foster a collaborative environment where knowledge sharing and healthy debate lead to better solutions
+* Identify and solve complex technical challenges independently, knowing when to collaborate and when to drive forward with conviction
+
+**Qualifications**
+
+Education \& Work Experience
+
+* Bachelor's degree, or higher, in Computer Science, Computer Engineering, or equivalent experience
+* 7\+ years of engineering experience, with at least 2 years developing distributed UIs, components, and patterns at scale
+
+
+Technical Skills
+
+* Proficiency in TypeScript, JavaScript, CSS, and HTML
+* Solid understanding of Tailwind CSS and utility\-first CSS frameworks
+* Deep background with React and familiarity with other modern frameworks
+* Well versed in web accessibility basics and technologies such as WCAG 2\.1 and WAI\-ARIA
+* Proven track record writing comprehensive test coverage that catches edge cases
+* Solid understanding of the Node.js ecosystem and comfort extending or debugging tooling like Webpack, Vite, esbuild, and TypeScript Compiler (tsc)
+* Knowledge of micro front\-end (MFE) architecture and distributed system patterns
+* Comfortable with API development and troubleshooting
+* Understanding of repository management and workflow automation across external tools like Figma or Zeroheight
+* Ability managing contribution pipelines and coordinating cross\-team workflows
+
+
+Design System Experience
+
+* Significant experience scaling design systems, ideally in a centralized capacity for large\-scale consumer or enterprise products
+* Deep expertise in design standards and principles, accessibility, and design operations
+* Proficiency with Figma and Storybook for design collaboration and component documentation
+* High standard for quality and attention to detail
+
+
+Leadership \& Collaboration
+
+* Ability to influence and collaborate with stakeholders across design, engineering, product, and business
+* Track record of identifying and communicating developer experience improvements that make teams more effective
+
+
+Nice to Have
+
+* Experience integrating AI, automation, or machine learning into design systems or workflows
+
+**This posting is a new position within our organization.**
+
+
+The targeted pay range for this position in the following location is / locations are:
+
+
+
+Canada \- Toronto Office TRO : 139,000 \- 209,000 CAD / Annual
+
+
+
+Our pay ranges reflect the minimum and maximum target for new hire pay for the full\-time position determined by role, level, and location.**The pay range shown is based on our compensation structure in place at the time of posting and may be updated periodically based on business needs.** Individual pay is based on additional factors including job\-related skills, experience, and relevant education and/or training.
+
+
+
+The targeted pay range listed reflects the base pay only and does not include bonus, equity, or benefits. Employees are eligible for bonus, and equity may be offered depending on the position.
+
+**Equinix Benefits**
+
+
+As an employee, you become important to Equinix’s success. We ensure all your benefits are in line with our core values: competitive, inclusive, sustainable, connected and efficient. We keep them competitive within the current marketplace to ensure we’re providing you with the best package possible. So, wherever you are in your career and life, you’ll be able to enhance your experience and bring your whole self to work.
+
+**Employee Assistance Program**: An Employee Assistance program is available to all employees.
+
+
+Canada Core Benefits: \- Insurance: You may enroll in healthcare coverage that is designed to complement the provincial healthcare system, along with life, disability and optional benefit plans that are designed for you and your eligible family members. \- Retirement: You may also enroll in Equinix\-sponsored retirement or savings plans: Defined Contribution Pension Plan (DCPP), Group Retirement Savings Plan (RRSP) and Tax\-Free Savings Plan (TSFA). \- Vacation and Paid Holidays: Equinix offers both vacation and personal time, along with various paid holidays for you to rest and recharge. Eligibility requirements apply to some benefits. Benefits are subject to specific plan or program terms, and to change at Equinix discretion.
+
+Equinix is committed to ensuring that our employment process is open to all individuals, including those with a disability. If you are a qualified candidate and need assistance or an accommodation, please let us know by completing form.
+
+
+Equinix is an Equal Employment Opportunity and, in the U.S., an Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to unlawful consideration of race, color, religion, creed, national or ethnic origin, ancestry, place of birth, citizenship, sex, pregnancy / childbirth or related medical conditions, sexual orientation, gender identity or expression, marital or domestic partnership status, age, veteran or military status, physical or mental disability, medical condition, genetic information, political / organizational affiliation, status as a victim or family member of a victim of crime or abuse, or any other status protected by applicable law.
+
+**We use artificial intelligence in our hiring process. Learn more** **here****.**","","https://ca.indeed.com/cmp/Equinix","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/218db74f2a27d5d37acc325835c07d0c","http://www.equinix.com","Redwood City, CA","10,000+","$25M to $100M (USD)","Equinix (Nasdaq: EQIX) is the world’s digital infrastructure company®.","full-time"
+"in-35b39e178fc5c2d8","indeed","https://ca.indeed.com/viewjob?jk=35b39e178fc5c2d8","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7b60ee95-ad20-4d3a-ac69-d4b6cd7fb906&ccId=19000101_000001&jobId=944209&source=IN&lang=en_CA","Quality Control Technician - Documentation","PRIME HEALTH","Maple Ridge, BC, CA","2026-02-06","fulltime","","","","","",False,"","","","","Our Organization Prime Health Ltd. is a fastest growing NNHP (Natural and Non\-prescription Health Product) manufacturing company based in Maple Ridge, BC having presence in North America, Asia, Middle East and Latin American countries. We are passionate in delivering result and customer satisfaction. To boost our growth, we are looking for **Quality Control (QC) Technician \- Documentation** who can contribute in the following activities.
+
+**Duties \& Responsibilities:**
+
+* Processing and filing the documents related to Quality.
+* Assist quality team pertaining to retention sample logs.
+* Maintain and update all Quality Systems batch records and testing records.
+* Assist QA and QC team with filing of raw material and finished product retained samples.
+* Coordinate with quality team in documentation process.
+* Involvement in reviewing batch records to ensure that all required records for the batch release process are included in the batch records. If any are missing, follow\-up with the appropriate production departments to obtain the required records.
+* Maintain all other GMP\-related records in the designated archival locations.
+* Support all other document control requirements, as required.
+* Other work as assigned.
+
+**Minimum Requirements:**
+
+* High School Diploma
+* Around 2 – 3 years of experience in QA/QC documentation is must.
+* Able to work in a fast\-paced environment
+* Excellent Computer Skills (MS Excel, Word and Outlook).
+* Ability to complete tasks with accuracy, while working within deadlines.
+* Excellent communication skills, with the ability to establish and maintain relationships.
+* Team player with the ability to follow\-up and maintain a positive attitude.
+* Ability to work with minimal supervision.
+
+**Benefits (after probation period):**
+
+* Dental care
+* Disability insurance
+* Life insurance
+* Vision care
+
+**Why Join Prime Health?**
+
+* Professional Growth Opportunities
+* Supportive Team Environment
+* Commitment to Employee Well\-being
+* Comprehensive Health Benefits
+
+**Salary**: $20\.00 to $22\.00 hourly (based on relevant experience and skill sets)
+
+**Job location**: Maple Ridge, BC
+
+**Job type:** Full time permanent","","https://ca.indeed.com/cmp/Prime-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ed1d01d7be05900aaee793e5ee0fc7d",""," ","51 to 200","","","full-time"
+"in-134954089451b097","indeed","https://ca.indeed.com/viewjob?jk=134954089451b097","https://apply.workable.com/j/87E7605C48","Production Technician - Hardware","Reusables.com","Vancouver, BC, CA","2026-02-11","fulltime","","","","","",False,"","","","","We are seeking a detail\-oriented **Production Technician** to support the procurement, stock management, assembly, and basic testing of IoT devices and related hardware. This role involves sourcing components, maintaining sufficient inventory, assembling and performing basic testing products, maintaining lab organization, completing outbound shipments, and ensuring high\-quality standards. If you have a hands\-on approach, a passion for innovative products, and strong organizational skills, we’d love to hear from you!
+
+
+This is a full\-time, permanent position, with opportunity for advancement (promotion) based on performance.
+  
+
+  
+
+**About Us:**
+
+
+At Reusables, we’re driven by a vision of a waste\-free world and recognize the urgent need to address the environmental impact of our current systems and habits. We believe that meaningful change requires institutions to offer frictionless systems that make sustainability effortless and tangible.
+
+
+What began as a grassroots initiative offering reusable takeout containers to restaurants and cafes in Vancouver, has since grown into an enterprise technology platform reaching top institutions across North America. Today, Reusables is empowering businesses to join the journey toward a cleaner, more sustainable future.
+
+
+As a venture\-backed and mission\-driven company, we are passionate about making impact at scale. We are a young, weirdly talented group of ‘high\-octane’ individuals that are relentlessly focused on the planet, people, and profit – in that order.
+
+**Requirements**
+
+**Materials Procurement \& Supplier Management**
+
+* Source and purchase components and materials for hardware production.
+* Maintain relationships with suppliers to manage lead times and deliveries.
+* Maintain inventory levels using our existing kanban system to ensure sufficient stock for production needs.
+
+ **Hardware Production \& Assembly**
+
+* Assist in assembling our Smart Return Bins, Checkout Devices and other related hardware components.
+* Follow detailed assembly instructions while maintaining quality and precision.
+* Troubleshoot and resolve basic assembly issues that arise.
+
+**Outbound Shipment**
+
+* Packing and labelling products to prepare for domestic and international shipment.
+* Arranging courier services to pickup and deliver shipments to customers.
+* Coordinating export documentation to support the shipments.
+
+ **Testing \& Quality Assurance**
+
+* Conduct functional and performance testing on hardware products.
+* Document and report test results, identifying any quality concerns.
+* Collaborate with engineers to improve product performance.
+
+ **Lab Organization \& Maintenance**
+
+* Maintain a clean, organized, and efficient hardware lab.
+* Ensure tools and equipment are properly maintained and calibrated.
+
+ **Documentation \& Reporting**
+
+* Maintain accurate records of procurement, assembly, and testing activities.
+* Provide regular updates on project status and supply chain challenges.
+
+  
+
+**What You’ll Bring To The Team:*** 1\-3 years of experience in a hardware, electronics, or manufacturing role.
+* Basic understanding of electrical and mechanical assembly.
+* Strong organizational and time management skills.
+* Familiarity with procurement processes and supplier management.
+* Ability to read and follow technical documentation and schematics.
+* Hands\-on approach with a keen eye for detail.
+
+ **Nice to Have**
+
+* Experience with Fusion360 CAD software
+* Electrical and design knowledge
+* Familiarity with PCB design and schematics
+* Import/export experience and familiarly with CUSMA
+
+**Benefits**
+
+* Benefits package provided by Pacific Blue Cross (dental, vision, health)
+* Growth within the organization! We love promoting people who show ownership.
+* Membership to Outdoor Prolink for discounted outdoor gear
+* Central, spacious, and easy\-access co\-working space in Mt. Pleasant Vancouver with a friendly and sociable atmosphere, with plenty of space to focus
+* Opportunity to travel to visit customer sites","","https://ca.indeed.com/cmp/Reusables.com","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b38a314ee14d7e28e877fde7f15fa5d4","https://reusables.com/","","2 to 10","","Reusables packaging as a service.","full-time"
+"in-3e41660dc048f998","indeed","https://ca.indeed.com/viewjob?jk=3e41660dc048f998","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a0a9df3d-3238-473a-bfb4-5fa6c5890c09&ccId=19000101_000001&jobId=542750&source=IN&lang=en_CA","Fundraising Data Analyst","Ducks Unlimited Canada","Stonewall, MB, CA","2026-02-11","fulltime","","","","","",True,"","","","hr@ducks.ca","**Position Details:** Full Time Permanent, New Position  
+
+**Salary:** Starting at $54,300, (based on a 35\-hour work week and commensurate with individual education and experience, as it relates to the position).  
+
+**Location:** Hybrid at our head office at Oak Hammock Marsh near Stonewall, MB  
+
+**Closing Deadline**: March 1, 2026 (11:59PM EDT)
+
+**What You Will Do**
+
+
+We’re looking for a collaborative, detail‑oriented and organized Data Analyst to support the Development and Fundraising teams by ensuring the accuracy, integrity, and usability of donor and fundraising data. In this position, you will be responsible for maintaining and improving data, enhancing reporting capabilities, and supporting staff in effective data entry and management practices. You will collaborate closely with the Salesforce administration team to ensure our CRM environment meets organizational needs and supports strategic fundraising goals.
+
+
+Key responsibilities include but are not limited to:
+
+* Ensure the accuracy of data related to fundraising events, raffles, and donor interactions in Salesforce and DonorDrive.
+* Review and merge duplicate contacts and records to maintain data cleanliness and accuracy.
+* Monitor donor and fundraising data in Salesforce, identifying errors or discrepancies, elevating broken functionality and working with the Saleforce admin team to identify, test, and correct system gaps/failures and following up with staff for corrections, improved processes, and training.
+* Make recommendations for / assisting with implementation of processes to improve user experience, data quality, and efficiency.
+* Work with the Stewardship, Fundraising and MarCom teams in uploading events and payment data ensuring accuracy across systems.
+* Generate and analyze reports, internal donor prospecting, and dashboards for team members, managers and leadership.
+* Liaise with Salesforce admin team, IT team and contractors to ensure the implementation of appropriate solutions, integrations and enhancements to meet fundraising needs.
+* Work with Development staff to generate and analyze prospecting reports to identify potential donors from within our data.
+* Act as the liaison for development, fundraising, and sustainability teams in our client relationship management system (Salesforce) and provide appropriate support to staff in onboarding, utilizing the system, and ensuring accurate data entry.
+* Serve as primary point of contact for other software used by the Development team, such as (but not limited to) DonorDrive, ClickBid, ThankView, Eventbrite, Double the Donation including user support, training, onboarding, and troubleshooting.
+
+**Requirements**
+
+* A minimum of 3 years' experience in data analytics, database administration or a similar role.
+* Diploma in Computer Science, Information Systems, Database management, or a similar field.
+* Experience in software training, troubleshooting and support.
+* Strong understanding of CRM principles, data quality, data governance, and data architecture.
+* Proficiency in Salesforce administration and experience with DonorDrive or similar fundraising software preferred.
+* Creating and analyzing reports, exporting and visualizing data, and using data to tell a story.
+* Excellent attention to detail and organizational skills.
+* Ability to iterate, test, and evolve processes.
+* Extended periods of time on digital screens.
+
+**Assets**
+
+* Experience in a fundraising or nonprofit environment is an asset.
+
+**What We Offer**
+
+* 3 weeks’ vacation with paid personal and sick days
+* Comprehensive compensation \& benefits package
+* Hybrid or remote work arrangement, depending on location.
+
+**How to Apply**
+
+
+Working for DUC is a career highlight for many staff. Let us know if making a difference is important to you.
+
+
+If you are qualified and interested in this opportunity, please hit 'Apply' to submit your application for confidential consideration.
+
+
+Ducks Unlimited Canada is committed to providing an inclusive and barrier\-free work environment. If you require accommodations during the recruitment and selection process, please email us at hr@ducks.ca. All requests for accommodation will be handled in a confidential manner.
+
+*While DUC would like to thank all applicants, only candidates considered for an interview will be contacted.*","","https://ca.indeed.com/cmp/Ducks-Unlimited-Canada","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/377c80d4791bb5f6fc1f814abfd0bc1a","https://www.ducks.ca","STONEWALL, CA","201 to 500","$25M to $100M (USD)","","full-time"
+"in-a78ad07955c377f5","indeed","https://ca.indeed.com/viewjob?jk=a78ad07955c377f5","https://www.okta.com/company/careers/engineering/senior-software-engineer-okta-aerial-7608934/","Senior Software Engineer - Okta Aerial","Okta","Toronto, ON, CA","2026-02-11","fulltime","","","","","",False,"","","","","**Get to know Okta**  
+
+  
+
+Okta is The World’s Identity Company. We free everyone to safely use any technology, anywhere, on any device or app. Our flexible and neutral products, Okta Platform and Auth0 Platform, provide secure access, authentication, and automation, placing identity at the core of business security and growth.  
+
+  
+
+At Okta, we celebrate a variety of perspectives and experiences. We are not looking for someone who checks every single box \- we’re looking for lifelong learners and people who can make us better with their unique experiences.  
+
+  
+
+Join our team! We’re building a world where Identity belongs to you.
+
+**Company Description:**
+
+
+
+Okta is the leading independent provider of enterprise identity. The Okta Identity Cloud enables organizations to securely connect the right people to the right technologies at the right time. With over 6,500 pre\-built integrations to applications and infrastructure providers, Okta customers can easily and securely use the best technologies for their business. Over 7,950 organizations, including 20th Century Fox, JetBlue, Nordstrom, Slack, Teach for America and Twilio, trust Okta to help protect the identities of their workforces and customers
+
+  
+
+
+
+Okta Aerial is the foundational management layer that provides centralized visibility and governance across a customer’s entire multi\-org ecosystem. It serves as a single pane of glass for account\-level services, enabling zero\-standing privileges and seamless orchestration across Okta’s globally distributed cell architecture.
+
+
+
+We are looking for a Senior Software Engineer to join the Aerial team to build and scale the ""Account Layer"" of Okta. You will own the development of critical backend services and the underlying cloud infrastructure that supports cross\-org functionality. The ideal candidate is a product\-minded engineer who is equally comfortable writing high\-performance code in Java or Go as they are automating and deploying scalable infrastructure in AWS.
+
+
+**Job Duties And Responsibilities**
+
+
+* Own the end\-to\-end development of features within the Aerial ecosystem, focusing on the multi\-org ""Account Layer"" and cross\-cell visibility.
+* Write clean, maintainable, and well\-tested code. Conduct thorough code reviews for peers to ensure high standards of security and performance.
+* Contribute to technical designs and proposals for Aerial services, ensuring they align with established architectural patterns for multi\-tenant systems.
+* Participate in the full software development life cycle—from initial scoping and technical design to deployment, monitoring, and handling customer\-reported issues.
+* **I**dentify and resolve performance bottlenecks in distributed services.
+* Understand our universal directory codebase and development process: Jira, Technical Designs, Code Review, Testing, and Deployment
+* Work with senior engineering team in major development projects, design and implementation
+* Participate in on\-call rotations and collaborate with SRE to ensure the reliability and uptime of Aerial\-specific infrastructure
+* Interface with cross\-functional teams (Architects, QA, Product, Technical Support, Documentation, and UX teams) to develop connectors to on\-prem and cloud apps
+* Partner with our Product Development, QA, and Site Reliability Engineering teams for scoping the development and deployment work
+
+**Required knowledge, skills, and abilities:**
+
+
+* 5\+ years of experience with Java (Spring/Dropwizard) and/or Golang, with a deep understanding of multi\-threading and asynchronous processing.
+* Understanding of OAuth 2\.0, OIDC, and JWT tokens, specifically for service\-to\-service communication.
+* Experience building high\-performance RESTful APIs and/or gRPC services.
+* Solid experience with relational databases (MySQL/PostgreSQL) and caching layers (Redis) at scale.
+* Hands\-on experience with AWS (Fargate, EC2, Lambda) and Infrastructure\-as\-Code (Terraform). You should be comfortable managing your own cloud resources.
+* Strong proficiency with containerization (Docker/Kubernetes) and CI/CD automation tools (Jenkins, ArgoCD, or GitHub Actions).
+
+**Nice to haves:**
+
+
+* Experience with Splunk, SignalFX, or Datadog for monitoring and troubleshooting production issues.
+* Familiarity with Kafka or SQS for handling cross\-org asynchronous events.
+* Basic familiarity with React/JavaScript to help integrate backend services.
+* Understanding of how to build and deploy services across isolated infrastructure units
+
+
+**Education and Training:**
+
+
+* B.S. Computer Science or related field
+  
+
+
+\#LI\-MM  
+
+\#LI\-Hybrid  
+
+P17313\_3360495
+
+
+Below is the annual salary range for candidates located in Canada. Your actual salary will depend on factors such as your skills, qualifications, and experience. In addition, Okta offers equity (where applicable), bonus, and benefits, including health, dental, and vision insurance, RRSP with a match, healthcare spending, telemedicine, and paid leave (including PTO and parental leave) in accordance with our applicable plans and policies. To learn more about our Total Rewards program, please visit: https://rewards.okta.com/can.
+
+
+The annual base salary range for this position for candidates located in Canada is between:$136,000—$187,000 CAD**What you can look forward to as a Full\-Time Okta employee!**
+
+
+* Amazing Benefits
+* Making Social Impact
+* Developing Talent and Fostering Connection \+ Community at Okta
+
+
+Okta cultivates a dynamic work environment, providing the best tools, technology and benefits to empower our employees to work productively in a setting that best and uniquely suits their needs. Each organization is unique in the degree of flexibility and mobility in which they work so that all employees are enabled to be their most creative and successful versions of themselves, regardless of where they live. Find your place at Okta today! https://www.okta.com/company/careers/.  
+
+  
+
+Some roles may require travel to one of our office locations for in\-person onboarding.
+
+
+
+Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.
+  
+
+  
+
+If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please use this Form to request an accommodation.  
+
+  
+
+**Notice for New York City Applicants \& Employees:** Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please  
+
+  
+
+Okta is committed to complying with applicable data privacy and security laws and regulations. For more information, please see our Personnel and Job Candidate Privacy Notice at https://www.okta.com/legal/personnel\-policy/.
+
+
+  
+Okta
+The foundation for secure connections between people and technology
+Okta is the leading independent provider of identity for the enterprise. The Okta Identity Cloud enables organizations to securely connect the right people to the right technologies at the right time. With over 7,000 pre\-built integrations to applications and infrastructure providers, Okta customers can easily and securely use the best technologies for their business. More than 19,300 organizations, including JetBlue, Nordstrom, Slack, T\-Mobile, Takeda, Teach for America, and Twilio, trust Okta to help protect the identities of their workforces and customers.","","https://ca.indeed.com/cmp/Okta","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/427f2f962cd5167c0d1bdb73a3c0db13","http://www.okta.com","San Francisco, CA","5,001 to 10,000","$1B to $5B (USD)","Okta is the foundation for secure connections between people and technology. ","full-time"
+"in-c249fc85ac31fe15","indeed","https://ca.indeed.com/viewjob?jk=c249fc85ac31fe15","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a2406c37-89a2-46c9-938d-3d5d606b4d01&ccId=19000101_000001&jobId=557105&source=IN&lang=en_CA","Plant Engineer","IMT Group","Ingersoll, ON, CA","2026-02-11","fulltime","","","","","",False,"","","","","**About The Role**
+
+**Elevate your expertise with IMT Precision!** We are recruiting for a Plant Engineer to join our team and contribute to the delivery of essential manufacturing solutions with Precision and Reliability. Join a culture that fosters collaboration, an environment for skill development and a rewarding career.
+
+**Are you ready to make a meaningful impact and contribute to the growth of our organization? Join IMT and let’s shape the future together!**
+
+  
+
+Job Type: Full\-Time
+
+
+Salary:**$88,200 \- $130,500** base salary
+
+
+IMT Precision does not use artificial intelligence, automated screening systems, or algorithm\-based decision tools in any part of the hiring process for this position. All applications are reviewed by human reviewers.
+
+**Position Summary**
+--------------------
+
+**The Plant Engineer is responsible for developing, optimizing, and improving manufacturing processes to enhance productivity, quality, safety, and cost efficiency. This role works closely with Engineering, Production, Maintenance, and Quality teams to ensure seamless integration of new processes, equipment, and technologies.**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**The Plant Engineer monitors process performance, performs data\-driven analysis, and leads continuous improvement initiatives to achieve operational excellence. This position ensures compliance with safety, environmental, and regulatory standards while driving sustainable improvements in efficiency, waste reduction, and overall equipment effectiveness (OEE).**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**About You**
+-------------
+
+
+At our company, we are looking for exceptional individuals who can meet the following criteria:
+
+* Analyze complex manufacturing systems and implement effective improvements
+* Manage multiple projects and competing priorities
+* Work independently and take ownership of initiatives
+* Lead cross\-functional teams through change and implementation
+* Adapt to changing operational needs in a fast\-paced manufacturing environment
+* Interpret technical data and translate findings into actionable improvements
+
+**Education \& Experience**
+---------------------------
+
+**Education;**
+
+* Bachelor’s degree in Mechanical, Industrial, Manufacturing, or related Engineering disciplines required
+* Master’s degree in Engineering or related field considered an asset
+* Professional Engineering (P.Eng) designation or working toward designation considered an asset
+
+**Experience;**
+
+* Minimum 5\+ years of experience in process or plant engineering within manufacturing environment
+* Experience with process validation, commissioning, and continuous improvement initiatives
+* Project management and plant commissioning experience considered an asset
+
+**Technical Expertise;**
+
+* Strong knowledge of Lean Manufacturing, Six Sigma, SPC, and process optimization methodologies
+* Experience with statistical analysis, process modeling, and simulation tools
+* familiarity with automation and control systems (PLC, SCADA) preferred
+* Knowledge of ISO standards and quality management systems
+* Proficient in Microsoft Office and engineering\-related software tools
+
+### **Knowledge**
+
+* Manufacturing process design and optimization
+* Statistical Process Control (SPC) and process capability studies
+* Lean manufacturing, Kaizen, 5S, and Value Stream Mapping
+* Automation and control systems (PLC, SCADA)
+* Quality management systems (ISO standards)
+* Process safety, risk assessment, and regulatory compliance
+* Root cause analysis and corrective action methodologies
+
+### **Skills**
+
+* Strong analytical and problem solving skills
+* Process modeling and data\-driven decision\-making
+* Project management and prioritization
+* Technical writing and documentation development
+* Effective cross\-functional collaboration
+* Strong verbal and written communication skills
+* Organizational and time\-management skills
+
+### **Working Conditions**
+
+* Combination of office and manufacturing plant environment
+* exposure to dirt, noise, heat, and industrial conditions within production areas
+* PPE required when in manufacturing areas
+* Occasional extended hours may be required to support projects or production demands
+
+  
+
+If you meet the above requirements and are ready to take on exciting challenges, we invite you to join our dynamic team!
+
+*Your interest in this opportunity is appreciated. Applicants must be a Canadian Citizen or hold a Permanent Residency. Only those applicants selected for an interview will be contacted.*
+
+*This description reflects management’s assignment of essential functions, it does not prescribe or restrict the tasks that may be assigned. IMT welcomes applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process*.
+
+**About IMT Precision**
+-----------------------
+
+
+IMT Precision is one of Canada’s leading major manufacturers in the OEM and Defence industries. With over 100 years of experience, it has taught us that our employees are our most valuable assets. We offer many perks along with a stable career at IMT Precision. Our collective strength empowers us to provide our clients with the indispensable high\-quality products essential to their success.
+
+
+Learn more about careers at IMT on our website: imtcorporation.com
+
+### **Benefits Of Working At IMT**
+
+* Extensive Health \& Dental Coverage
+* Defined contribution Pension Plan
+* Annual Bonus Program
+* Competitive Wages
+* Job\-Security (Long outstanding and growing company)
+* On\-the\-job training
+* Professional designation fee paid
+* Tuition Reimbursement
+* Employee Referral Program
+* Social Events/Activities
+* Years of Service Program
+
+### **Our Values**
+
+**Find Solutions**
+
+*We face challenges head\-on and work relentlessly to solve them. If it were easy, everyone would do it. But we push through together.*
+
+**Stronger Together**
+
+*Every voice matters. There are no bad ideas here. We do better when we collaborate, share perspectives, and lift each other up.*
+
+**Build the Future**
+
+*We don’t sit back – we step forward. We take initiative and act with urgency to share the future we want to see.*
+
+**Be Real**
+
+*We speak the truth, even when it’s hard. We’re honest with each other and our customers, and we solve problems by first acknowledging them.*","","https://ca.indeed.com/cmp/Imt-Group-4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ddb9d89165481eaa9a181151a4b491b0","http://imtcorporation.com","Kitchener, ON","501 to 1,000","Decline to state","IMT Group is comprised of three operating divisions, IMT Precision, IMT Forge & IMT Momentum. IMT Group is passionate about engineering, forging, machining, and finishing superior quality metal","full-time"
+"in-d2c6cac71aabf634","indeed","https://ca.indeed.com/viewjob?jk=d2c6cac71aabf634","https://rr.jobsyn.org/96349E4500314A9C94004560EA2ADADC1554","Assistant Construction Manager - Construction (Toronto)","Burns & McDonnell","Toronto, ON, CA","2026-02-11","fulltime","","","","","",False,"","","","","**Description**
+
+
+The Assistant Construction Manager will assist the Construction Project Manager, Project Manager, Site Manager, and/or the Engineer Procure Construct (EPC) Project Manager or Program Manager with day to day management of project safety, quality, schedule, cost control, contracts, subcontractors, suppliers, procurement, proposals, estimates, documentation, turnover, client interface, field\-based activities, and other duties required to execute Engineer Procure Construct (EPC) projects, construction management, and program management ventures. This position will work on a diverse array of projects across multiple industries including aviation, commercial building, electrical transmission \& distribution, facility, manufacturing, oil \& gas, power generation, process, and water.
+
+
+* Adhere to company's safety programs, training, and policies as well as collaborate with the project team to manage the Safety \& Health performance of project team members, contractors, and others as required.
+* Collaborate with the Project Management team to build client relationships while interfacing with the client for proposal and project related items.
+* Assist in the development of internal and external project risk reviews with the Project Management team and consult with the Legal Department as required.
+* Coordinate and assist in the development and implementation of the Project Execution Plan, Quality Assurance Plan, Safety \& Health Plan, Subcontracting Plan, Project Staffing Plan, Organization Chart, and Procurement Plan.
+* Contribute to the negotiation, approval and execution of multiple types of prime contracts, subcontracts, purchase orders, and change orders.
+* Develop the project plan for site mobilization and demobilization and support the Construction Manager or Site Manager with implementation.
+* Secure applicable project permits required for the project.
+* Support development of and coordinate the potential bidders' registration and pre\-qualification efforts on behalf of the Project team.
+* Prepare Request for Proposal (RFP), support detailed scope of work development, bid and selection process, creation of contract documents for the purpose of subcontractor and client contractor selection and award.
+* Support the implementation of multiple project specifications, drawing releases, and design changes.
+* Execute downstream contract administration, including Request for Information (RFI's), submittals, meeting minutes, change management, and claims mitigation.
+* Support project cost reporting, scheduling, work breakdown structures, project set\-up and closeout, and field progress tracking processes.
+* Prepare information for and report project status, risks, schedule, costs, and cash flows at project and corporate level meetings to internal and external stakeholders. Develop and distribute meeting minutes as needed.
+* Support the Prime Contract, subcontract, client contractor, and supplier invoicing process.
+* Establish, review and implement the project documentation and filing systems and processes.
+* Verify the project, client contractor, and/or subcontractor's insurance, licensures, taxes/duties, and securities are in effect according to the project requirements.
+* Support and conduct project safety, quality, progress and financial audits and assessments as required.
+* Facilitate the materials receiving and management process including inventory control, receiving of goods, storage, and transportation.
+* Collaborate with Superintendents and Site Managers to verify compliance of subcontractor's client contractors contract documents, safety \& health requirements, quality, and schedule.
+* Facilitate the project turnover documentation, recordkeeping/retention, warranty and project close out processes.
+* Assist with maintaining compliance on all project related activities by consistently applying company policies and procedures.
+* Assist with the development of project labor agreements with building trades as required.
+* Assist with onboarding of craft/field supervision as required.
+* Analyze composite crew rates to determine labor and equipment costs.
+* Work with field operations/craft hr team to appropriately staff projects.
+* Analyze and monitor labor burdens including craft classifications, benefits and labor laws.
+* Maintain accurate craft classifications and craft progression records.
+* Assist with uholding standards of craft competency and training.
+* Estimate, forecast and manage craft install unit rates, production rates to ensure earned value, schedule, change management and ensure cost metrics are met.
+* Assist with applicable craft training.
+* Manage construction equipment to ensure adequate inventory to complete projects.
+* Performs other duties as assigned.
+* Complies with all policies and standards.
+
+**Qualifications**
+
+
+* Bachelor's degree in construction, construction management, engineering, or a related field and 3 years relevant construction experience required. Or,
+* Applicable experience may be substituted for the degree requirement required.
+* Excellent computer skills and proficiency in Microsoft Office (Word, Excel, Outlook, PowerPoint and Access).
+* Experience with document control, scheduling, cost control and project management software is preferred.
+* Excellent written and verbal communication skills and strong organizational skills.
+* Strong analytical and problem solving skills, and attention to detail.
+* Ability to handle large volumes of work and multi\-task in a fast\-paced environment.
+* Multiple years of experience on construction project sites or executing program management in the industries of aviation, commercial, energy, government, manufacturing, oil \& gas, process, transmission \& distribution, transportation, or water is preferred.
+* A basic understanding of Generally Accepted Accounting Principles.
+* Must be able to meet the company's driving requirements.
+
+**Compensation**
+
+
+The expected compensation range for this position is $110,000\.00 \- $140,000\.00 annually, in compliance with Ontario’s Pay Transparency requirements. Final compensation will be based on education, qualifications, prior experience, and work location. The total annual compensation package will consist of a base salary and eligibility to participate in our discretionary year\-end incentive bonus program.
+
+
+**Benefits**
+
+
+We provide a comprehensive benefits package to support your overall well\-being. This includes extended health and dental coverage, disability and life insurance, paid time off, and wellness initiatives. Eligible employees also participate in our Canadian Equity Participation Plan (CEPP) and retirement savings program.
+
+
+This job posting will remain open for a minimum of 72 hours and on an ongoing basis until filled.
+
+
+**Equal Opportunity Statement**
+
+
+We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, disability, or veteran status.
+
+
+**Pay Transparency \& Accessibility Statement**
+
+
+* This posting is for an existing vacancy.
+* AI is not used in the screening or selection process for this role.
+
+**Job** Construction Services
+
+
+**Primary Location** CA\-ON\-Toronto
+
+
+**Schedule:** Full\-time
+
+
+**Travel:** Yes, 100 % of the Time
+
+
+**Req ID:** 254943
+
+
+**Job Hire Type** Experienced \#LI\-STA \#CDB N/A","Consulting And Business Services","https://ca.indeed.com/cmp/Burns-&-Mcdonnell","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/892891857c5f48b81eea299ec08278d2","http://www.burnsmcd.com/careers","9400 Ward Parkway
+Kansas City, MO 64114","5,001 to 10,000","$1B to $5B (USD)","We are a family of companies bringing together an unmatched team of 10,000 engineers, construction professionals, architects, planners, technologists and scientists to design and build infrastructure.","full-time"
+"in-e51a326e4d642163","indeed","https://ca.indeed.com/viewjob?jk=e51a326e4d642163","https://www.contax.com/Open-Positions?JPID=314","SAP - Systems Development - Solution Engineer","CONTAX Inc","Remote, CA","2026-02-11","fulltime","","","","","",True,"","","","","The SAP Professional Services (SPS) division at CONTAX, Inc. specializes in the implementation and support of SAP business systems for clients ranging from small businesses to large enterprises. As a Solution Engineer in the Systems Development \& Analytics practice area, you will play a crucial role in designing, implementing, and supporting SAP technical/programming solutions for customers across North America.
+  
+  
+
+Job Description
+  
+  
+
+**The duties and responsibilities for this position include:**  
+
+* Consulting, troubleshooting issues, and recommending solutions utilizing software development within: SAP ABAP programming, SAP output processing, EDI, and forms
+* Interpreting business needs and product requirements into technical designs and solutions for customers
+* Adapting to constantly evolving customer needs and technical requirements
+* Working as part of a team to implement SAP for companies in manufacturing and distribution
+* Developing and testing the SAP software application
+* Supporting existing customers running SAP with enhancements, optimization, and improvements to technical solutions
+* Delivering projects within timelines and budgets
+* Assisting customers with optimizing their use of their business software through the development of solutions, knowledge transfer, and expert guidance
+* Proactively seeking professional development opportunities to enhance the ability to service business and technical needs of our customers
+
+
+**Position Type:** Permanent \- Full Time
+  
+**Location:** Canada \- Remote
+  
+**Experience:** Entry level, Recent Graduate. ERP Experience would be a plus.
+  
+For entry\-level hires into this position, CONTAX provides initial training and mentoring to build core SAP business and technical knowledge.
+  
+  
+
+**Start Date:** June 2026
+  
+Requirements
+  
+  
+
+**The requirements for this position include:**  
+
+* Eligible to work in Canada
+* Willingness to travel within North America when required (10%)
+
+
+Preferred skills and experience
+  
+  
+
+* Bachelor's degree in Engineering, Technology, or Business field
+* Self\-driven and proactive nature
+* Excellent communication skills
+* An ability to work well individually as well as within a team
+* An affinity for problem\-solving and designing solutions
+* An interest in understanding, designing, and improving on solutions
+* Effective documentation abilities
+* Familiarity with business processes such as manufacturing, sales, distribution, or accounting
+* Programming experience (SQL, Java, C\+\+, etc.)
+* Experience working with a business software application such as SAP, Microsoft Dynamics, Sage, Epicor, NetSuite, or Infor
+
+
+**Personality, Behavior and Attitude:**  
+
+CONTAX values energetic, outgoing, highly motivated individuals who take initiative and are strong problem solvers. We seek individuals who have strong communication skills, are team\-oriented but can also work independently. We take pride in our work and embrace a diverse cultural work environment. If this sounds like you, we would love to hear from you!
+  
+About CONTAX
+  
+  
+
+CONTAX helps thousands of companies around the world run their business better.
+  
+  
+
+ERP business software helps companies of all sizes become more efficient, make better use of their resources, and become more successful.
+  
+  
+
+CONTAX sells, implements and supports SAP ERP software to large and midsize companies. SAP is the world's leading ERP software for large and complex organizations.
+  
+  
+
+Acumatica Cloud ERP is the world's fastest growing ERP software for small and midsized companies. CONTAX sells, implements and the supports modern, intuitive and powerful Cloud ERP software from Acumatica.
+  
+  
+
+CONTAX has offices in USA, Canada, Australia and The Netherlands and one of the fastest\-growing ERP software and consulting companies in the world.
+  
+  
+
+We provide challenging and meaningful careers for our team members, where we can learn and grow while working with purpose and meaning. We encourage each other to work hard and together we celebrate our successes.
+  
+  
+
+We strive for excellence in everything we do and, while results matter, we also have to allow others the opportunity to make mistakes, as it's a critical part of the learning process. We are an entrepreneurial environment where everyone is given the opportunity to try, and take calculated risks where appropriate.
+  
+  
+
+We strive to be good global citizens and make a positive impact in the communities in which we live and work.
+  
+  
+
+We believe we have the most talented and dedicated team of ERP professionals in the industry.
+  
+  
+
+We're always hiring and always growing; and we'll hire talented people even when an opening doesn't exist. We plan to get bigger, better and stronger; and we're always looking for great people to join us on the journey.
+  
+  
+
+1\+ years","Internet And Software","https://ca.indeed.com/cmp/Contax-Inc","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/597f4dd96b809997f3056ddcd48c916f","http://www.contax.com","893 Yonge Street,
+Toronto, Ontario M4W 2H2","51 to 200","$25M to $100M (USD)","For more information or to arrange a complimentary consultation: visit www.contax.com e-mail info@contax.com call (416)-927-1913","full-time"
+"in-7b72132f9f95adbf","indeed","https://ca.indeed.com/viewjob?jk=7b72132f9f95adbf","https://jsv3.recruitics.com/redirect?rx_cid=3618&rx_jobId=R-0000159307&rx_url=https%3A%2F%2Fjobs.rbc.com%2Fca%2Fen%2Fjob%2FR-0000159307%3Frx_a%3D0%26rx_c%3D%26rx_ch%3Djobp4p%26rx_group%3D300081%26rx_id%3De9ab960d-076a-11f1-a7e8-9b32d5bc865c%26rx_job%3DR-0000159307%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260212T020407Z%26rx_vp%3Dcpc%26source%3DAPPLICANT_SOURCE_INDEEDORGANIC%26utm_medium%3Dcpc%26utm_source%3Dindeedorganic","Manager, Data Engineer and Strategy Implementation","RBC","Toronto, ON, CA","2026-02-11","fulltime","","","","","",False,"","","","","**Job Description**
+
+**What is the opportunity?**
+
+
+Data Engineering role supporting RBC's credit strategy modernization. You'll design and maintain high\-performance data pipelines as a core member of our technology transformation team. Your focus: migrating legacy SAS processes to Python and PySpark, while optimizing data processing across HDFS/Hive and AWS S3 platforms. This hands\-on technical position offers the opportunity to drive scalability, efficiency, and accuracy improvements in solutions that directly impact credit risk management across the organization.
+
+**What will you do?**
+
+* Build and optimize scalable data pipelines in Python and PySpark, ensuring reliability and performance across HDFS/Hive and AWS S3 environments.
+* Lead migration initiatives transforming legacy SAS processes into modern, cloud\-ready Python/PySpark solutions.
+* Architect data workflows that support credit risk analytics and business intelligence at scale.
+* Write production\-grade code with rigorous testing, documentation, and adherence to software engineering best practices.
+* Partner with data scientists and stakeholders to translate business requirements into robust technical solutions.
+* Manage code quality and collaboration through GitHub version control and peer review processes.
+* Document technical infrastructure to enable team knowledge sharing and system maintainability.
+
+**What do you need to succeed?**
+
+**Must have:**
+
+* **3\+ years** of hands\-on data engineering experience, ideally in financial services or credit risk environments.
+* **Advanced proficiency in Python and PySpark** for designing and optimizing large\-scale data processing solutions.
+* **Strong SQL expertise** with demonstrated experience in big data platforms (HDFS, Hive, or equivalent).
+* **Proven ability** to translate complex data requirements into clear, actionable solutions that drive business decisions.
+* **Software engineering discipline** – writes clean, testable, and maintainable code with attention to quality and documentation.
+* **Growth mindset** – committed to staying current with evolving data technologies and continuously raising technical standards.
+
+**Nice to have:**
+
+* **Track record of solving ambiguous, high\-impact problems** with clear decision\-making and collaborative problem resolution.
+* **Excellent communication skills** – ability to explain technical concepts clearly to both technical and non\-technical stakeholders.
+* **Background in financial services**, particularly in credit risk, lending, or regulatory analytics.
+* **Experience with legacy systems and languages** (SAS, TRIAD, BLAZE, or similar mainframe/proprietary platforms) – valuable for understanding existing processes during migration.
+
+**What’s in it for you?**
+
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+
+* Ability to make a difference and lasting impact
+* Work in a dynamic, collaborative, progressive, and high\-performing team
+* Opportunities to do challenging work
+
+**Job Skills**
+
+
+Business Data Analysis, Communication, Credit Analysis, Critical Thinking, Database Queries, Data Visualization, Decision Making, Quantitative Methods, Risk Management**Additional Job Details**
+
+**Address:**
+
+
+RBC WATERPARK PLACE, 88 QUEENS QUAY W:TORONTO**City:**
+
+
+Toronto**Country:**
+
+
+Canada**Work hours/week:**
+
+
+37\.5**Employment Type:**
+
+
+Full time**Platform:**
+
+
+GROUP RISK MANAGEMENT**Job Type:**
+
+
+Regular**Pay Type:**
+
+
+Salaried**Posted Date:**
+
+
+2026\-02\-10**Application Deadline:**
+
+
+2026\-02\-24**Note****:** *Applications will be accepted until 11:59 PM on the day prior to the application deadline date above*
+
+**I****nclusion** **and Equal Opportunity Employment**
+
+
+At RBC, we believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all.
+
+**Join our Talent Community**  
+
+  
+
+Stay in\-the\-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.  
+
+  
+
+Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well\-being of our clients and communities at jobs.rbc.com.
+
+
+RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.","","https://ca.indeed.com/cmp/Rbc","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/24b5226a07f0233c415dc4023ca92a38","http://www.rbc.com","Toronto, ON","10,000+","more than $10B (USD)","We're committed to helping clients thrive and communities prosper, supporting strategic initiatives that make a measurable impact on society.","full-time"
+"in-c70e167289eb6a9f","indeed","https://ca.indeed.com/viewjob?jk=c70e167289eb6a9f","https://ubc.wd10.myworkdayjobs.com/en-US/ubcfacultyjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Postdoctoral-Research-Fellow---AI-Cancer-Care_JR23131-1","Postdoctoral Research Fellow - AI Cancer Care","University of British Columbia","Vancouver, BC, CA","2026-02-11","fulltime","","","","","",False,"","","","workplace.accessibility@ubc.ca","Academic
+Job Category
+Faculty Non Bargaining
+Job Title
+Postdoctoral Research Fellow \- AI Cancer Care
+Department
+Nunez Laboratory \| Department of Psychiatry \| Faculty of Medicine (John\-Jose Nunez)
+Posting End Date
+February 27, 2026
+Note: Applications will be accepted until 11:59 PM on the Posting End Date.  
+
+Job End Date
+February 28, 2027  
+
+The expected salary for this position is $100,000 per annum. The Faculty of Medicine is committed to offering equitable and competitive salaries, commensurate with the qualifications and experience of the candidate.
+The Nunez Lab, in the Department of Psychiatry, in partnership with BC Cancer is seeking a full\-time (1\.0 FTE) Postdoctoral Research Fellow to join a collaborative program focused on developing and evaluating a patient\-centered AI Cancer Care Navigation Assistant. The appointment is for 12 months, with the possibility of renewal subject to funding and performance. The successful candidate will work within Dr. John Jose Nunez’s research program and collaborate closely with BC Cancer.
+The UBC Department of Psychiatry is committed to advancing research and innovation in mental health and related areas, including the application of artificial intelligence in healthcare. Dr. Nunez’s lab focuses on the use of AI in mental health and cancer care, and the Postdoctoral Fellow will join a multidisciplinary team composed of data scientists, software engineers, and medical trainees.
+This position involves collaboration with multidisciplinary groups at BC Cancer, including Supportive Care, Radiation Oncology, and Rehabilitation, as well as with UBC partners such as the Department of Computer Science and the Data Science Institute. Learn more about the lab and its research here: https://nunez\-comp\-mental\-health\-cancer\-care.github.io/ .
+RESPONSIBILITIES
+Reporting to Dr. John Jose Nunez, the incumbent will be responsible for:* Leading the development of the AI Navigation Assistant, including predictive and generative NLP components.
+* Designing and refining recommendation features that connect patients and caregivers to appropriate supportive resources.
+* Leading the evaluation program by combining automated metrics with pilot testing alongside clinicians and patient partners, and translating findings into iterative improvements.
+* Collaborating within multidisciplinary teams across UBC and BC Cancer, including clinical, technical, and patient partner stakeholders.
+* Supervising research assistants and trainees involved in data collection, analysis, writing, and related projects.
+* Contributing to additional projects led by the Principal Investigator and Co\-Principal Investigators that apply artificial intelligence and data science to cancer care and mental health.
+* Co\-creating knowledge translation outputs for public audiences, such as social media content, infographics, and web\-based events.
+* Developing and writing manuscripts for peer\-reviewed publications.
+* Contributing to the development of future grant applications.
+* Performing other related duties as required.
+
+
+QUALIFICATIONS
+Required Qualifications
+Successful candidates will have* PhD completed within the last 5 years in computer science, data science, biomedical engineering, computational linguistics, medical informatics, or a related discipline.
+* Demonstrated expertise in clinical and biomedical NLP, including both predictive modeling and generative applications using foundation models
+* Hands on experience building end to end ML systems, including data preparation, model training, evaluation, and reproducible pipelines.
+* Proficiency with modern recommendation and retrieval methods relevant to patient facing assistants, including bi encoder and cross encoder architectures and retrieval augmented generation.
+* Strong programming skills in Python and deep learning frameworks, familiarity with MLOps practices, data governance for sensitive health data, and cloud environments such as AWS.
+* Excellent communication, teamwork, and project management skills, with the ability to collaborate closely with clinicians, patient partners, and technical teams.
+
+
+Preferred Qualifications* Experience analyzing large clinical document corpora and linked structured data; experience with oncology datasets or navigation pathways is an asset.
+* Experience evaluating patient\-facing AI systems in healthcare, including ethics, safety, explainability, and user\-centered methods.
+* Experience with information retrieval or recommendation systems for health information, and with secure deployment in health authority or cloud environments.
+* A record of peer\-reviewed publications and effective collaboration across clinical and technical teams.
+
+  
+
+APPLICATION PROCEDURE
+An application package should include:* A cover letter (1\-2 pages) outlining the applicant’s specific examples of experience and research interests.
+* A detailed curriculum vitae, including a list of recent peer\-reviewed publications.
+* Contact information for two referees.
+
+
+Applications should be submitted online through Workday.
+Review of applications will begin on January 19, 2026 and continue until the position is filled.
+  
+About Us
+
+
+UBC \- One of the World's Leading Universities
+As one of the world's leading universities, the University of British Columbia creates an exceptional learning environment that fosters global citizenship, advances a civil and sustainable society, and supports outstanding research to serve the people of British Columbia, Canada and the world.  
+
+UBC hires on the basis of merit and is committed to employment equity. All qualified persons are encouraged to apply.
+Equity and diversity are essential to academic excellence. An open and diverse community fosters the inclusion of voices that have been underrepresented or discouraged. We encourage applications from members of groups that have been marginalized on any grounds enumerated under the B.C. Human Rights Code, including sex, sexual orientation, gender identity or expression, racialization, disability, political belief, religion, marital or family status, age, and/or status as a First Nation, Metis, Inuit, and/or Indigenous person.
+All qualified candidates are encouraged to apply; however Canadians and permanent residents will be given priority.
+If you have any accommodation or accessibility needs during the job application process, please contact the Centre for Workplace Accessibility at workplace.accessibility@ubc.ca.","Education And Schools","https://ca.indeed.com/cmp/University-of-British-Columbia","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a9321b8ecc4285f4a07cf14c2c631ff3","http://www.ubc.ca/","Vancouver, BC","10,000+","$1B to $5B (USD)","The University of British Columbia is a global centre for teaching, learning and research, consistently ranked among the top public universities in the world.","full-time"
+"in-40cf60a836f00c9d","indeed","https://ca.indeed.com/viewjob?jk=40cf60a836f00c9d","https://indeed.njoyn.com/cl3/xweb/XWeb.asp?page=jobdetails&clid=55242&JobID=J0226-0432&BRID=344600&sbdid=936","Data Analyst - RECRU & CORE (part-time)","","Montréal, QC, CA","2026-02-11","temporary, parttime","","","","","",False,"","","","research.talent@muhc.mcgill.ca","**Job Description**
+
+**RESEARCH INSTITUTE OF THE MUHC**  
+
+The Research Institute of the McGill University Health Centre (RI\-MUHC) is a world\-renowned biomedical and hospital research centre. Located in Montreal, Quebec, the Institute is the research arm of the McGill University Health Centre (MUHC) affiliated with the Faculty of Medicine at McGill University. The RI\-MUHC is supported in part by the Fonds de recherche du Québec \- Santé (FRQS).  
+
+  
+
+**Position summary**  
+
+A major focus of the laboratory’s work is research on improving services and approaches for tuberculosis diagnosis and management in Nunavik. The incumbent will mainly be working on supporting or leading quantitative data analysis on a project developing infectious disease transmission models for Nunavik, supporting data management, handling, and retrieval for a project evaluating computer aided detection software for analyzing x\-rays to detect tuberculosis.
+  
+
+  
+
+**General Duties**
+  
+
+* Cleans datasets, and codes and manages data,
+* Writes scripts, runs analyses, and visualizes data,
+* Prepares data, creates figures for papers, posters, and more,
+* Supports maintenance of resources needed for data analysis (e.g. server space \& access),
+* Drafts reports and manuscripts, and supports activities related to these activities (reference management, literature searches, formatting manuscripts, abstracts, posters, presentations),
+* Accomplishes any other related tasks required by the employer,
+* Contributes to organization of team meetings,
+* Acting as liaison between the Information Technology (IT) / Information Security (IS) teams at the McGill University Health Center and the investigators.
+**Website of the organization**
+
+
+https://rimuhc.ca/en
+
+ **Education / Experience**
+
+
+Education: Master's Degree  
+
+Field of Study: Epidemiology, Public Health, Data Science, or Biostatistics  
+
+Work Experience: Minimum 1 year of experience.
+
+**Required Skills**
+
+* MSc or MPH plus formation in data science ,
+* Must have demonstrable experience in R, python, Linux,
+* Experience in AI (machine learning, deep learning) ,
+* Excellent competencies in oral and written communication in French and in English ,
+* Rigorous coding and data analysis approaches ,
+* Team player,
+* Detail\-oriented, resourceful, strong problem\-solving skills, multitasking abilities and organized,
+* Meets deadlines ,
+* Knowledge of, or willingness to learn about, the following as they pertain to Indigenous health: decolonization, reconciliation, self\-determination in health research, systemic racism, reflexivity.
+
+  
+
+The following are assets:  
+
+* Prior experience in tuberculosis research
+* Data science certification ,
+* Knowledge of Python ,
+* Proficiency in Microsoft Office ,
+* Experience in qualitative methods ,
+* Certification in TCPS\-2 research ethics ,
+* Experience in harmonizing, integrating, and analyzing data from multiple datasets would be an asset.
+
+  
+
+**Candidates are to provide:**
+  
+
+* Cover letter (including demonstration of competencies, experience, productivity and impact) ,
+* Curriculum Vitae ,
+* Contact information for 2 references.
+
+**Additional information**
+
+**Status:** Temporary, part\-time : Between 18 to 30 hours per week, with flexibility in working part\-time if the incumbent is not available full time.  
+
+**Pay Scale:** $27\.32\-$50\.74/h. Commensurate with education and experience
+  
+
+**Work Shift:** Monday to Friday 8:30am to 4:30pm: 4 to 5 days per week
+  
+
+**Work Site:** Hybrid: On site at 5252 de Maisonneuve is required for one day per workweek.  
+
+\*\*\***Please attach all required documents with your resume in one document.** \*\*\*  
+
+  
+
+Why work with us?  
+
+  
+
+* 6 days of paid sick leave per year, which includes a maximum of 3 personal day,
+* Vacation calculated on a pro\-rata basis based on a percentage of your salary,
+* Modular group insurance plan (including gender affirmation coverage),
+* RREGOP government pension plan (defined benefit plan),
+* 5\.3% of your gross earnings will be added to your paycheque in lieu of statutory holidays.
+
+  
+
+https://rimuhc.ca/careers  
+
+  
+
+To learn more about our benefits, please visit http://rimuhc.ca/en/compensation\-and\-benefits  
+
+  
+
+**THIS IS NOT A HOSPITAL POSITION.****Equal Opportunity Employment Program**
+
+
+The Research Institute of the McGill University Health Centre hires on the basis of merit and is strongly committed to equity, diversity and inclusion within its community. We welcome applications from all qualified candidates who self\-identify as members of racialized groups/visible minorities, women, Indigenous persons, persons with disabilities, ethnic minorities, and 2SLGBTQIA\+ persons. We also welcome candidates with the skills and knowledge to productively engage with diverse communities. Persons with disabilities who anticipate needing accommodations for any part of the application process may confidentially contact, research.talent@muhc.mcgill.ca","","","","","","","","","full-time"
+"in-a46f73f4d2dec56f","indeed","https://ca.indeed.com/viewjob?jk=a46f73f4d2dec56f","http://ca.indeed.com/job/principal-geophysicist-a46f73f4d2dec56f","Principal Geophysicist","","Surrey, BC, CA","2026-02-11","fulltime","","","","","",True,"","","","","**Position:** Principal Geophysicist  
+**Location:** Hybrid / Remote  
+**Employment Type:** Full\-Time
+
+**About the Opportunity**
+
+We are seeking a highly experienced **Principal Geophysicist** to lead advanced subsurface modelling, interpretation, and technical project delivery across a range of complex geoscience initiatives. This is a senior technical leadership role with significant influence on client outcomes, internal capability growth, and organizational direction.
+
+If you are a seasoned geophysics professional who thrives on independent judgment, sophisticated analytical work, and shaping high\-impact client engagements, this role offers an exceptional opportunity to lead, innovate, and elevate geoscience practice within a rapidly growing environment.
+
+**What You Will Lead**
+
+**Client \& Stakeholder Relationships**
+
+* Represent the organization as a senior technical leader during client engagements, proposals, and project discussions.
+* Build trusted relationships with customers, partners, and external contributors.
+* Negotiate scopes, terms, and expectations, ensuring clarity, feasibility, and alignment with geophysical realities.
+
+**Technical Leadership**
+
+* Serve as the organization’s senior geophysics authority, setting and upholding rigorous technical standards.
+* Lead the development and execution of advanced geophysical analysis, modelling, inversion workflows, and multi\-dataset interpretation.
+* Provide expert guidance on complex or ambiguous challenges, ensuring defensible, high\-quality decisions grounded in professional practice.
+
+**Project Ownership**
+
+* Take end\-to\-end technical ownership of assigned projects, ensuring accuracy, completeness, and professional integrity.
+* Translate complex analytical results into clear, useful insights for clients and stakeholders.
+* Manage concurrent technical workstreams with strong judgment around quality, timelines, and risk.
+
+**Data Processing \& Modelling**
+
+* Process, analyze, and interpret geophysical datasets using industry\-standard tools and methodologies.
+* Develop and validate survey simulations, forward models, constrained and multi\-dataset inversions.
+* Ensure traceability, reproducibility, and strong documentation for all analytical workflows.
+
+**Team Development \& Internal Capability Building**
+
+* Mentor junior staff and contractors through coaching, technical reviews, and structured knowledge\-transfer.
+* Promote consistent, high\-integrity geophysical methodologies across the team.
+* Support long\-term planning for geoscience capability development.
+
+**What Success Looks Like**
+
+* High\-quality, defensible geophysical outputs aligned with Engineers \& Geoscientists BC (EGBC) professional standards.
+* Strong customer partnerships and repeat business driven by technical excellence.
+* Efficient workflows, improved analytical consistency, and elevated geoscience capability across the team.
+* Clear, concise technical communication that strengthens client decision\-making.
+
+**Experience**
+
+* Minimum **6–8 years** of progressively responsible geophysics experience;
+* **10\+ years** preferred for full Principal consideration.
+* Proven expertise in applied geophysical data analysis, modelling, and interpretation.
+* Demonstrated ability to lead technical projects and mentor other geoscientists.
+
+**Technical Skills**
+
+* Advanced proficiency in geophysical inversion, modelling, and data processing.
+* Strong Python or equivalent scripting capabilities.
+* Experience with tools such as:
+
+Oasis Montaj, Geoscience Analyst, Maxwell/CSIRO, Res2D/Res3D, SimPEG, UBC Inversion Codes, DUG, Microsoft 365, Slack, and related modelling environments.
+
+**Key Strengths**
+
+* Excellent analytical reasoning and problem\-solving skills.
+* Clear, concise communication, including translating complex data for varied audiences.
+* Strong client\-facing presence with the ability to negotiate, influence, and build trust.
+* High accountability, professional integrity, and adherence to EGBC practice requirements.
+
+**Working Conditions**
+
+* Hybrid or remote environment with coordination through digital collaboration tools.
+* Occasional travel for project coordination or client support.
+* Computer\-based analytical work for extended periods.
+
+**How to Apply**
+
+If you are a senior geophysicist who wants to lead advanced technical work, shape geoscience practice, and build meaningful client partnerships, we want to hear from you.
+
+**Please submit your resume and a brief cover letter outlining your experience and interest in this role.**
+
+Job Types: Full\-time, Permanent
+
+Pay: $120,000\.00\-$150,000\.00 per year
+
+Benefits:
+
+* Dental care
+* Employee assistance program
+* Extended health care
+* Life insurance
+* On\-site parking
+* Paid time off
+* Vision care
+* Wellness program
+* Work from home
+
+Application question(s):
+
+* Are you located in BC?
+
+Education:
+
+* Bachelor's Degree (required)
+
+Experience:
+
+* Progressive Geophysics : 6 years (required)
+
+Language:
+
+* English (required)
+
+Licence/Certification:
+
+* P. Geo with EGBC (required)
+
+Willingness to travel:
+
+* 25% (preferred)
+
+Work Location: Hybrid remote in Surrey, BC V4P 1B7","","https://ca.indeed.comNone","","","","","","","full-time"
+"in-a413e4fa9f4f51b8","indeed","https://ca.indeed.com/viewjob?jk=a413e4fa9f4f51b8","https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/8192","IT Operations Analyst","J.D. Irving","Saint John, NB, CA","2026-02-11","fulltime","","","","","",False,"","","","","As a technically savvy, focused, and driven IT professional you will play a pivotal role enabling 24/7 quality support (day shift and night shift) by monitoring IT enterprise applications and infrastructure for all the J.D. Irving Limited group of companies.
+
+
+You will be exposed to various technologies from IT infrastructure, enterprise business applications, security operations and operational technology. You will find the role both challenging and rewarding while offering lots of opportunities for development in your career.
+
+
+This position requires full\-time on\-site presence.
+
+
+**All successful applicants must meet requirements for Canadian Controlled Goods Program (CGP), Canadian Government Security clearance, and U.S. International Traffic in Arms Regulations (ITAR).**
+
+
+  
+* Monitor enterprise infrastructure health using industry leading monitoring solutions.
+* Stay vigilant for and respond to cyber security threats to protect our systems and data.
+* Investigate and respond to systems and security incidents, mitigating potential impact.
+* Collaborate with cross\-functional teams to provide timely resolution on priority incidents.
+* Centralize communication with key stakeholders providing accurate status updates.
+* Support the regular maintenance and updates support a stable and secure infrastructure.
+* Continuously work to improve standard processes and documentation for quality work.
+* Provide end user support outside of regular business hours.
+* Work in a shift\-based schedule, typically 3 days on and 3 days off, to provide 24/7 coverage.
+
+  
+* A post\-secondary degree or diploma in Computer Science, Cyber Security, or another relevant field
+* Solid understanding of network protocols, security best practices, and incident response procedures
+* Strong communication and collaboration skills to work effectively within a team environment
+* Excellent problem\-solving skills and the ability to work well under pressure
+
+* One or more years prior experience delivering quality technical support
+* Leadership mindset that owns problems and strives to be the best
+* Able to demonstrate a proactive attitude, ownership, process improvements and problem analysis / resolution skills
+* Able to describe, create and manage system documentation, including standard operating procedures, and routine status reports
+* A self\-starter with the ability to work independently or within a team
+**Extras:**
+
+* Experience with one or more of the following technologies: ManageEngine OpManager, Cisco Meraki, VMware, SCOM, SCCM, Dell EMC Avamar, Dell EMC Networker, Unix, Microsoft office applications, Intune, Splunk and ServiceNow
+* Relevant certifications such as CompTIA Security\+, Network \+, A\+, or equivalent
+
+  
+The belief that what people experience matters more than technology is part of our foundational core. We also believe that our ability as a team grows exponentially when we share success. These centering values – some of our non\-negotiables \- guide our decisions and inform how we show up daily. Join a team that aims to simplify the path forward and inspire commitment.
+
+
+With over 380 employees centralized in Saint John, Fredericton, Dieppe and Halifax, we offer the opportunity to create real value by helping people and businesses work smarter. **JDI IT** supports the entire J.D. Irving Limited group of companies which means we offer opportunities and experiences across a wide breadth of IT areas, businesses and industries. As a member of the JDI IT team, you will be a key player in enabling the business to win by overcoming obstacles and “getting it done”!
+
+
+We believe in the power of diverse teams and invest in continuous professional growth. We are seeking naturally curious change makers looking to join a collaborative and motivated team. Come help JDI IT Raise the Bar!
+
+
+  
+Founded in 1882, J.D. Irving, Limited (JDI) has operations in Canada and the United States and are a team of 20,000 dedicated employees. At J.D. Irving, Limited, you are part of a dynamic team of professionals who lead with integrity and are passionate about delivering results. With a culture that nurtures talent and creates an inclusive workplace, you can grow your career across our various operating divisions.
+We are committed to creating accessible environments for our colleagues, candidates, and customers. Requests for accommodation due to a disability (which may be visible or invisible, temporary, or permanent) can be made at any stage of application and employment. We encourage candidates to make their accommodation needs known so that we can provide equitable opportunities.
+Worried you do not meet all the requirements? Studies have shown that many applicants apply only to job opportunities when they feel they meet 100% of the criteria. We promote an inclusive environment where everyone is appreciated, recognized, and empowered to contribute fully. If you are interested in this position but are worried you did not meet all the requirements, we would encourage you to still apply.
+We appreciate your interest in our company however only those candidates selected for an interview will be contacted.","","https://ca.indeed.com/cmp/J.d.-Irving","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1ce5e676aa6b9eb1e4d5b258b6970465","https://www.jdirving.com/","300 Union St. Saint John, NB E2L 4M3 Canada","10,000+","Decline to state","An outstanding team dedicated to providing the best in products and service.","full-time"
+"in-bfbcd065abbe77a1","indeed","https://ca.indeed.com/viewjob?jk=bfbcd065abbe77a1","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c636b4b1-9b8d-4e27-a0d2-6cdea1e0fdc6&ccId=19000101_000001&jobId=578125&source=IN&lang=en_US","Fisheries Analyst","Oceana Canada","CA","2026-02-11","temporary","","","","","",True,"","","","","Type: Temporary fixed\-term contract
+Expected Start Date: April 27, 2026
+Expected Duration: Approximately 8‑month term, ending on December 18, 2026
+Reports to: Fishery Scientist
+Location: Fully Remote in Halifax, NS or Vancouver, BC
+Salary Range: $35\.00 per hour **Summary**
+Oceana Canada was established as an independent charity in 2015 and is part of the largest international advocacy group dedicated solely to ocean conservation. Oceana Canada has successfully campaigned to end the shark fin trade, make rebuilding depleted fish populations the law, improve the way fisheries are managed and protect marine habitat.  
+
+Canada has the longest coastline in the world, with an ocean surface area of 7\.1 million square kilometres, or 70 per cent of its landmass. Oceana Canada believes that Canada has a national and global obligation to manage our natural resources responsibly and help ensure a sustainable source of protein for the world’s growing population. Oceana Canada works with civil society, academics, fishers, Indigenous Peoples and governments to return Canada’s formerly vibrant oceans to health and abundance. By restoring Canada’s oceans, we can strengthen our communities, reap greater economic and nutritional benefits, and protect our future.  
+
+Oceana Canada seeks a Fisheries Analyst to support its campaigns to rebuild fisheries and safeguard forage fish. A significant portion of the work will support the development of Oceana Canada’s Fishery Audit. The position requires strong quantitative research abilities and science communication skills. **Principal duties and responsibilities*** **Lead data gathering and synthesis** by conducting comprehensive literature reviews and analyzing government reports, management plans, scientific publications, and other relevant sources to inform the 10th annual Fishery Audit (2026\) and related Oceana Canada initiatives.
+* **Design, build, and conduct analytical assessments** of existing and emerging fisheries indicators, including the development of new datasets, metrics, and evidence\-based insights to evaluate the status and management performance of Canadian fisheries.
+* **Produce high‑quality written materials**, including technical analyses, reports, briefing notes, and policy recommendations, with exceptional accuracy, clarity, and attention to detail.
+* **Provide research and analytical support** to advance Oceana Canada’s fisheries and marine conservation campaigns, contributing scientific expertise to strategic planning, advocacy initiatives, and public‑facing materials as assigned.
+* **Work with a multidisciplinary team** consisting of advocates, communications professionals, scientists, lawyers and others to achieve ambitious annual and longer\-term campaign goals
+* **Support the organizing of convening events** including drafting scientific resources and discussion papers for those attending.
+* **Keep up to date** on best fisheries and conservation practices, methodologies and innovations.
+* Perform additional duties as needed or assigned.
+ **Requirements*** **Graduate degree** in a relevant scientific field (e.g., fisheries science, marine biology, ecology, environmental science) with practical experience in fisheries research, data analysis, or marine resource management.
+* **Demonstrated expertise in fisheries science**, stock assessment concepts, and marine conservation issues in a Canadian or international context.
+* **Advanced quantitative and statistical abilities**, including experience building, managing, and analyzing large or complex datasets using analytical tools or statistical software (Excel, R.).
+* **Exceptional writing, editing, and communication skills**, with the ability to translate scientific information into clear and compelling narratives for technical and non‑technical audiences.
+* Must be **eligible and available for full‑time employment in Canada**.
+  
+
+Temporary fixed\-term contract with an expected start date of April 27, 2026\. The expected duration for this role is April 27, 2026 to December 18, 2026\.  
+
+Oceana Canada is an equal opportunity employer. In accordance with the Accessibility for Ontarians with Disabilities Act, support will be provided in the recruitment process and accommodations for disabilities will be provided on request wherever appropriate. All offers of employment are conditional upon the successful completion of reference checks and a criminal background check.  
+
+While we thank all candidates for their interest, only those short\-listed will be contacted.  
+
+TO APPLY: Please apply at the link below by 5:00 p.m. ET on March 06, 2026 for the best consideration. Applications will be assessed upon receipt; therefore, we encourage early submission.","","https://ca.indeed.com/cmp/Oceana-Canada-1","","","","","","","full-time"
+"in-292de38e4861f336","indeed","https://ca.indeed.com/viewjob?jk=292de38e4861f336","https://jobs.northernhealth.ca/ViewJobPosting/5731006?ReturnUrl=%2fJobSearch%2fs-%2f0-0-0-100-0-false-0-5","INFORMATION SECURITY ANALYST","Northern Health","Prince George, BC, CA","2026-02-11","fulltime","","","","","",False,"","","","","##### **Position Summary**
+
+
+Are you interested in an opportunity to grow professionally within a positive and progressive culture? Northern Health is seeking a Information Security Analyst to join our Information \& Technology Services department.  
+
+  
+
+The Information Security Analyst provides intake, assessment and prioritization of requests for IT Security Services and/or events that require IT Information Security incident response. The Analyst assists in coordinating investigations into security\-related incidents and policy violations and participates as a key member of an integrated breach response team. The Analyst deals with sensitive information and situations, and provides training and education on NH Information Security procedures, policies, standards and guidelines at all levels of the organization.  
+
+  
+
+Starting salary will be approximately from $74,618 to $93,273 and will be based on education, training, experience, and salaries of similar positions.
+
+
+##### **Qualifications**
+
+
+* Graduation from a recognized degree program in Computer Science, plus five (5\) years recent, related experience in an enterprise, public sector and/or health care environment, or an equivalent combination of education, training and experience.
+* Certification in a cyber\-security discipline (CISSP, CEH, CISA, SANS) desirable. Active CISSP, SANS GIAC, or Security \+ certification preferred.
+
+  
+
+**Skills and Abilities:**
+  
+
+* Strong working knowledge of Windows desktop and server technologies in a large information technology environment.
+* Knowledge of electronic information systems and information management processes (ITIL).
+* Strong written and oral communication skills.
+* Good working knowledge of information security principles, standards, best practices, and industry trends.
+* Demonstrated interpersonal skills, including the ability to foster and maintain good working relationships with professionalism, tact, confidentiality and discretion.
+* Good working knowledge of core security technologies including firewalls, anti\-malware, intrusion prevention, encryption, and web content filtering.
+* Investigative and analytical skills to research, analyze, and interpret data and information from a variety of disparate sources.
+* Excellent time management skills to prioritize, complete assignments, and schedule activities.
+* Ability to set priorities and work unsupervised in a complex environment.
+* Ability to drive a vehicle and possession of a valid Class 5 BC Driver’s license.
+* Physical ability to perform the duties of the position.
+
+  
+
+**Where you will be working:**  
+
+**Community:**  
+
+Information about living, working, and thriving in the area is available through **Prince George**  
+
+  
+
+**More about Northern Health**  
+
+Northern Health covers nearly 600,000 square kilometers, delivering health services to more than two dozen communities and 55 First Nations communities across the region. We provide both hospital and community\-based care to a population of approximately 300,000 people. With a team of over 12,000 staff and physicians, we are committed to offering high quality, person centered care in collaboration with communities and partner organizations throughout Northern BC.  
+
+  
+
+**What Northern Health Has to Offer You!**  
+
+Joining Northern Health means becoming part of a supportive team that values your growth and well\-being. Here’s what we provide:  
+
+* Comprehensive benefits including extended health, dental, and a municipal pension plan for part\-time and full\-time employees. Casual employees have option of paying for benefits.
+* Four weeks of vacation after one year of continuous service.
+* Financial support for moving expenses for eligible positions.
+* Employee referral program with attractive incentives.
+* Employer\-paid training and leadership development opportunities.
+* Access to spectacular outdoor activities and enjoy the shortest commutes in BC.
+* Loan Forgiveness Programs offered through Federal and Provincial Government for eligible professions.
+
+  
+
+**Important Application Information**  
+
+Please ensure you upload the following documents as part of your application:  
+
+* Registration number (if you belong to a regulated profession).
+* Supporting documents for education and qualifications, such as:
+* Program certificates or diplomas.
+* High school, college, or university transcripts.
+* Cover letter and resume (recommended).
+
+  
+
+**International Applicants**  
+
+Before applying, please review the steps outlined on our Northern Health Careers page: Information for international applicants
+##### **Comments**
+
+
+###### **Competition \#:**
+
+
+05731006
+
+
+###### **Employee Type:**
+
+
+PERMANENT FULL TIME
+
+
+###### **Bargaining Unit:**
+
+
+NON\-CONTRACT
+
+
+###### **Facility:**
+
+
+BRUNSWICK BUILDING
+
+
+###### **Location:**
+
+
+Prince George, BC
+
+
+###### **Department:**
+
+
+NH CYBERSECURITY
+
+
+###### **Reports To:**
+
+
+MANAGER, INFORMATION SECURITY
+
+
+###### **Close Date:**
+
+
+FEBRUARY 21, 2026
+
+  
+
+
+  
+
+* All postings with a closing date specified close at 11:59 pm PT","","https://ca.indeed.com/cmp/Northern-Health-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/35f56bf79d012c82f852d5454912ef7b","https://www.northernhealth.ca","Prince George, BC","5,001 to 10,000","Decline to state","We deliver health care across Northern British Columbia, serving about 300,000 people. More than 7,000 people work for Northern Health.","full-time"

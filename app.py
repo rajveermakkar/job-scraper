@@ -29,6 +29,9 @@ LOCATION = os.getenv("JOB_LOCATION", "Canada")  # Default: Canada
 RESULTS_WANTED = int(os.getenv("RESULTS_WANTED", 20))  # Default: 20 jobs per query
 HOURS_OLD = int(os.getenv("HOURS_OLD", 1))  # Default: Last 1 hour
 
+PLATFORM = os.getenv("PLATFORM", "linkedin").lower()
+COUNTRY_INDEED = os.getenv("COUNTRY_INDEED", "canada")
+
 LOG_FILE = os.getenv("LOG_FILE", "logs.txt")
 SENT_JOBS_FILE = os.getenv("SENT_JOBS_FILE", "sent_jobs.json")
 CSV_FILE = os.getenv("CSV_FILE", "jobs.csv")
@@ -39,6 +42,9 @@ if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
 
 if not SEARCH_TERMS or not JOB_TYPES:
     raise ValueError("⚠️ SEARCH_TERMS and JOB_TYPES must be set in .env!")
+
+if PLATFORM == "indeed" and not COUNTRY_INDEED:
+     raise ValueError("⚠️ COUNTRY_INDEED must be set when scraping Indeed!")
 
 # Flask app setup
 app = Flask(__name__)
@@ -106,6 +112,32 @@ def extract_job_id(job_url):
         return job_url.split("/jobs/view/")[1].split("/")[0]  # Extract numeric job ID
     return job_url.strip()  # Fallback
 
+def extract_description_snippet(description, terms):
+    """Extracts a relevant snippet from the description based on search terms."""
+    if not description:
+        return "No description available."
+    
+    description_lower = description.lower()
+    best_idx = -1
+    
+    # split terms into individual keywords if needed, or use as phrases
+    # for now, use the terms as provided (phrases)
+    for term in terms:
+        idx = description_lower.find(term.lower())
+        if idx != -1:
+            best_idx = idx
+            break
+    
+    if best_idx != -1:
+        # Extract 100 chars before and after
+        start = max(0, best_idx - 50)
+        end = min(len(description), best_idx + 150)
+        snippet = description[start:end].replace("\n", " ").strip()
+        return f"...{snippet}..."
+    else:
+        # Return first 200 chars if no term match
+        return description[:200].replace("\n", " ").strip() + "..."
+
 def load_sent_jobs():
     """Load previously sent job IDs from JSON file."""
     if os.path.exists(SENT_JOBS_FILE):
@@ -141,16 +173,20 @@ def scrape_and_notify():
         all_jobs = []
         job_ids_found = set()  # Track job IDs within the same scrape
 
+        # Determine platforms to scrape
+        site_list = ["linkedin", "indeed"] if PLATFORM == "both" else [PLATFORM]
+
         for term in SEARCH_TERMS:
             for job_type in JOB_TYPES:
-                log_message(f"🔎 Searching for: {term} ({job_type}) in {LOCATION}...")
+                log_message(f"🔎 Searching for: {term} ({job_type}) in {LOCATION} via {site_list}...")
 
                 jobs = scrape_jobs(
-                    site_name=["linkedin"],
+                    site_name=site_list,
                     search_term=f"{term} {job_type}",
                     location=LOCATION,
                     results_wanted=RESULTS_WANTED,
-                    hours_old=HOURS_OLD
+                    hours_old=HOURS_OLD,
+                    country_indeed=COUNTRY_INDEED
                 )
 
                 if not jobs.empty:
@@ -182,8 +218,12 @@ def scrape_and_notify():
                     job_id = extract_job_id(job["job_url"])
                     sent_jobs.add(job_id)  # Add to sent jobs immediately
 
+                    snippet = extract_description_snippet(job.get('description', ''), SEARCH_TERMS)
+                    
                     message = (
                         f"*{job['title']}*\n{job['company']}\n📍 {job['location']}\n"
+                        f"🌐 Platform: {job.get('site', 'Unknown')}\n"
+                        f"📝 {snippet}\n"
                         f"🗂 Category: {job['category']}\n🔗 [Apply here]({job['job_url']})"
                     )
                     messages.append(message)
